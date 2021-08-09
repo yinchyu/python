@@ -193,3 +193,66 @@ class Solution:
             return True
 a=Solution()
 print(a.max_version([["0.1.0", "1.0"], ["2.1.13", "1.20.0"], ["2.1.0", "2.1.0"]]))
+
+
+d,m,w=[int(i) for i in  input().strip().split()]
+i,j,k=[int(i) for i in  input().strip().split()]
+weeks=(((k-1)*m+j-1)*d+i-1)%w
+end=ord('a')+weeks
+print(chr(end))
+
+#  并查集实现查找对应的元素
+class unionset(object):
+    def __init__(self):
+        self.set={}
+    def union(self,a,b):
+        self.visit(a,b)
+        a_root=self.find(a)
+        b_root=self.find(b)
+        # 合并的时候要兼顾到树的平衡， 如果左边大就将右边的变成左边的节点进行操作
+        # 存储可以直接使用map 进行操作
+        self.set[a_root]=b_root
+    def find(self,a):
+        temp=self.set.get(a,None)
+        if temp==None:
+            return None
+        if self.set[a]==a:
+            return self.set[a]
+        else:
+            # 直接将一个树的基本操作
+            self.set[a]=self.find(self.set[a])
+            return self.set[a]
+    def visit(self,a,b):
+        for i in [a,b]:
+            if self.set.get(i,None)==None:
+                self.set[i]=i
+
+    def equal(self,a,b):
+        a_root=self.find(a)
+        b_root=self.find(b)
+        if a_root is None or b_root is None:
+            return False
+        else:
+            return a_root==b_root
+
+n = int(input().strip())
+commandlist = []
+reason=unionset()
+for i in range(n):
+    commandlist.append([int(i) for i in input().strip().split()])
+    
+    
+for command in commandlist:    
+    if command[0] == 2:
+        moda=command[1]%command[3]
+        modb=command[2]%command[3]
+        if moda==modb:
+            res=True
+        else:
+            res=reason.equal(moda,modb)
+        if res:
+            print("YES")
+        else:
+            print("NO")
+    elif command[0] == 1:
+        reason.union(command[1],command[2])
