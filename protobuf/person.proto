@@ -1,0 +1,29 @@
+syntax ="proto3";
+package people;
+// 可以导出两个原因是没有按照嵌套的形式写， 而是采用分开的形式写的
+	message person{
+    string name  =1;
+    int32  age =2;
+    string sex  =3;
+    string idnumber=4;
+
+    enum phontype{
+    mobile=0;
+    home=1;
+    work=2;
+    }
+
+    message phonenumber{
+    phontype type=1;
+    string num =2;
+    }
+    repeated phonenumber phone=5;
+	};
+
+
+
+	message people{
+	repeated person personlist=1;
+	}
+
+

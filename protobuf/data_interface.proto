@@ -1,0 +1,17 @@
+syntax = "proto3";
+package  data_interface;
+message wav{
+	 int32 msgtime=1;
+	 int32 number=2;
+	 float wavlen=3;
+	 string info =4;
+	}
+
+message fpi{
+   string name=1;
+	}
+
+message wavlist{
+	repeated wav multiwav=1;
+	repeated fpi multifpi=2;
+}
