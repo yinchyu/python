@@ -11,3 +11,12 @@ message Student {
 }
 repeated Student TargetList=1;
 }
+
+enum PhoneType {
+    MOBILE = 0;
+    HOME = 1;
+    WORK = 2;
+}
+message MyMessage {
+  map<int32, int32> mapfield = 1;
+}
