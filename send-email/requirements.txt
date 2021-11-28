@@ -1,0 +1,5 @@
+colorama==0.4.4
+Cython==0.29.24
+numpy==1.21.4
+tgt==1.4.4
+tqdm==4.62.3

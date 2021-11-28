@@ -1,0 +1,6 @@
+#LWP-Cookies-2.0
+Set-Cookie3: AMAuthCookie="AQIC5wM2LY4Sfcy29ns6Zvldaq%2FhMnXAeYPZMBHGqMlURqE%3D%40AAJTSQACMDI%3D%23"; path="/"; domain=".scu.edu.cn"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: amlbcookie=02; path="/"; domain=".scu.edu.cn"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: iPlanetDirectoryPro="AQIC5wM2LY4Sfcy29ns6Zvldaq%2FhMnXAeYPZMBHGqMlURqE%3D%40AAJTSQACMDI%3D%23"; path="/"; domain=".scu.edu.cn"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: JROUTE=xihF; path="/"; domain="ids.scu.edu.cn"; path_spec; discard; version=0
+Set-Cookie3: JSESSIONID=4C8515A65D3C8FAF4CCAD1F4E2E4C449; path="/"; domain="ids.scu.edu.cn"; path_spec; discard; version=0

@@ -1,0 +1,202 @@
+// sql 安装步骤：
+安装的方式有两种， 一种是通过直接解压然后 配置环境变量 ，一种是通过安装软件imsi
+下载MySQLwinx64
+在bin目录中配置my.ini
+初始化data数据库目录    mysqld --initialize --console
+mysqld install    net start mysql 启动数据库
+ mysql -uroot -p
+password： 输入初始化的密码
+//修改当前用户的密码
+ALTER USER USER() IDENTIFIED BY '123456';
+
+ exit； 或者quit； 可以退出sql 命令模式
+
+//sql的基本指令
+D:\database\mysql-8.0.18-winx64\bin
+set password for root@localhost ='ycy1234'
+mysql -u root -p
+pO(*VD;xQ7Mz
+net start mysql
+net stop mysql
+mysqld --initialize --console
+z23wngH>kt=b
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| student_relation   |
+| sys                |
++--------------------+
+5 rows in set (0.08 sec)
+
+mysql> use student_relation;
+Database changed
+mysql> select * from course
+    -> ;
++-----------+--------------------------------------------------+-------------+---------+
+| course_id | title                                            | dept_name   | credits |
++-----------+--------------------------------------------------+-------------+---------+
+| 101       | Diffusion and Phase Transformation               | Mech. Eng.  |       3 |
+
+
+mysqladmin -uroot -pz23wngH>kt=b password ycy123  
+//对连接不成功的处理mysql Client does not support authentication protocol requested by server; consider upgrading MySQL
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'ycy1234;
+SELECT plugin FROM mysql.user WHERE User = 'root';
+//对拒绝访问的处理
+设置管理员模式就可以了操作了
+
+备份输数据库：
+SELECT * FROM test_db.tb_students_info
+ INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 5.7/Uploads/file.txt'
+查看安全变量的值
+mysql> show variables like '%secure_file_priv%';
++------------------+-------+
+| Variable_name    | Value |
++------------------+-------+
+| secure_file_priv | NULL  |
++------------------+-------+
+1 row in set, 1 warning (0.03 sec)
+select * from advisor into outfile 'D:/database/outfile/num.txt';
+读数据库中的文件进行导出
+mysql> select * from advisor into outfile 'D:/databse/outfile/num.txt';
+ERROR 1046 (3D000): No database selected
+mysql> use student_relation
+Database changed
+mysql> select * from advisor into outfile 'D:/databse/outfile/num.txt';
+ERROR 1 (HY000): Can't create/write to file 'D:\databse\outfile\num.txt' (OS errno 2 - No such file or directory)
+mysql> select * from advisor into outfile 'D:/database/outfile/num.txt';
+Query OK, 2000 rows affected (0.02 sec)
+
+#连接数据库出现的问题：
+2005  Unknown MySQL server host 'localhost' (0) ，断网的情况下，不会自动解析localhost 为127.0.0.1 
+，localhost只是一个字符串，不代表一个ip地址。 mysql配置文件的存储在hosts文件中，其位置在： Windows：c:\windows\system32\drives\etc\hosts Linux：/etc/hosts 打开配置文件可看到在文件的末尾处,localhost的主机ip设置为127.0.0.1。
+
+mysql> show tables;
++---------------+
+| Tables_in_cov |
++---------------+
+| details       |
+| history       |
++---------------+
+2 rows in set (0.06 sec)
+
+mysql> desc history;
++-------------+----------+------+-----+---------+-------+
+| Field       | Type     | Null | Key | Default | Extra |
++-------------+----------+------+-----+---------+-------+
+| ds          | datetime | NO   | PRI | NULL    |       |
+| confirm     | int(11)  | YES  |     | NULL    |       |
+| confirm_add | int(11)  | YES  |     | NULL    |       |
+| suspect     | int(11)  | YES  |     | NULL    |       |
+| suspect_add | int(11)  | YES  |     | NULL    |       |
+| heal        | int(11)  | YES  |     | NULL    |       |
+| heal_add    | int(11)  | YES  |     | NULL    |       |
+| dead        | int(11)  | YES  |     | NULL    |       |
+| dead_add    | int(11)  | YES  |     | NULL    |       |
++-------------+----------+------+-----+---------+-------+
+9 rows in set (0.06 sec)
+
+
+
+第一招、mysql服务的启动和停止
+
+net stop mysql
+
+net start mysql
+
+第二招、登陆mysql
+
+语法如下： mysql -u用户名-p用户密码
+
+键入命令mysql -uroot -p，回车后提示你输入密码，输入12345，然后回车即可进入到mysql中了，mysql的提示符是：
+
+mysql>
+
+注意，如果是连接到另外的机器上，则需要加入一个参数-h机器IP
+
+第三招、增加新用户
+
+格式：grant权限on数据库.* to用户名@登录主机identified by "密码"
+
+如，增加一个用户user1密码为password1，让其可以在本机上登录，并对所有数据库有查询、插入、修改、删除的权限。首先用以root用户连入mysql，然后键入以下命令：
+
+grant select,insert,update,delete on *.* to user1@localhost Identified by "password1";
+
+如果希望该用户能够在任何机器上登陆mysql，则将localhost改为"%"。
+
+如果你不想user1有密码，可以再打一个命令将密码去掉。
+
+grant select,insert,update,delete on mydb.* to user1@localhost identified by "";
+
+第四招：操作数据库
+
+登录到mysql中，然后在mysql的提示符下运行下列命令，每个命令以分号结束。
+
+1、显示数据库列表。
+
+show databases;
+
+缺省有两个数据库：mysql和test。 mysql库存放着mysql的系统和用户权限信息，我们改密码和新增用户，实际上就是对这个库进行操作。
+
+2、显示库中的数据表：
+
+use mysql;
+
+show tables;
+
+3、显示数据表的结构：
+
+describe表名;
+
+4、建库与删库：
+
+create database库名;
+
+drop database库名;
+
+5、建表：
+
+use库名;
+
+create table表名(字段列表);
+
+drop table表名;
+
+6、清空表中记录：
+
+delete from表名;
+
+7、显示表中的记录：
+
+select * from表名;
+
+第五招、导出和导入数据
+
+1.导出数据：
+
+mysqldump --opt test > mysql.test
+
+即将数据库test数据库导出到mysql.test文件，后者是一个文本文件
+
+如：mysqldump -u root -p123456 --databases dbname > mysql.dbname
+
+就是把数据库dbname导出到文件mysql.dbname中。
+
+2.导入数据:
+
+mysqlimport -u root -p123456 < mysql.dbname。
+
+不用解释了吧。
+
+3.将文本数据导入数据库:
+
+文本数据的字段数据之间用tab键隔开。
+
+use test;
+
+load data local infile "文件名" into table表名;
