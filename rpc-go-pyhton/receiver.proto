@@ -1,0 +1,20 @@
+syntax="proto3";
+import  "google/protobuf/struct.proto";
+service Receiver{
+  rpc receive (Event) returns (Reply){}
+  rpc receive2 (Event) returns (Reply){}
+}
+
+message  Event{
+  string appid=1;
+  int32 xwhen=2;
+  string xwho=3;
+  string xwhat=4;
+  google.protobuf.Struct xcontext=5;
+}
+
+
+message Reply{
+  int32 status=1;
+  string message=2;
+}
