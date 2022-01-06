@@ -38,7 +38,9 @@
     |----spot-check.py
     |----super().py
     |----traceback.py
+    |----协程实现多任务.py
     |----反射机制.py
+    |----钩子函数监听记事本.py
 ```
 #### http-server
 ```python 
@@ -55,6 +57,14 @@
 ----mkfifo-pipe\
     |----client.py
     |----server.py
+```
+#### mutli-porcess
+```python 
+----mutli-porcess\
+    |----gevent协程操作.py
+    |----多进程复制文件.py
+    |----进程之间的相互通信.py
+    |----进程池处理任务.py
 ```
 #### process_and_thread
 ```python 
@@ -122,6 +132,12 @@
     |----receiver_pb2.py
     |----receiver_pb2_grpc.py
     |----server.py
+```
+#### scrapy
+```python 
+----scrapy\
+    |----图片下载器.py
+    |----斗鱼存储主播数据.py
 ```
 #### send-email
 ```python 
