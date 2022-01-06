@@ -25,6 +25,7 @@
     |----conf_logging.py
     |----coroutine-yeild.py
     |----daemon_process.py
+    |----generate-markdown.py
     |----itertools.py
     |----monitor.py
     |----multicast.py
