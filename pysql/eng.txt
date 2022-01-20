@@ -1,0 +1,805 @@
+ZUUU02_2020-07-20_00-02-37_360	sichuan eight zero tree one descend to and maintain one zero thousand one hundred meters 
+ZUUU02_2020-07-20_00-02-43_570	descend to one zero thousand one hundred meters sichuan eight seven tree one 
+ZUUU02_2020-07-20_00-04-59_050	radar good morning cargolux seven four one seven eight thousand four hundred meters fife miles right of track two one 
+ZUUU02_2020-07-20_00-05-06_650	cargolux seven four one seven chengdu control confirm squawk 
+ZUUU02_2020-07-20_00-05-11_030	cargolux seven four one seven squawk five one seven four and request for nine thousand two hundred meters 
+ZUUU02_2020-07-20_00-05-18_180	cargolux seven four one zero chengdu control radar contact uh due to separation niner thousand two hundred meters is not available in my romeo standby for higher 
+ZUUU02_2020-07-20_00-05-28_520	standing by for higher cargolux seven four one seven request tree uh we are on pa 
+ZUUU02_2020-07-20_00-06-12_510	descend maintain eight thousand four hundred meters okayjet two seven niner seven 
+ZUUU02_2020-07-20_00-06-21_800	cargolux seven four one seven able direct to bipip 
+ZUUU02_2020-07-20_00-06-24_150	uh cargolux seven four one seven direct to bipip approved 
+ZUUU02_2020-07-20_00-06-29_340	direct to dudit cargolux seven four one seven 
+ZUUU02_2020-07-20_00-07-27_210	sichuan eight seven three one contact nanning control on one two eight decimal tree seven five good day 
+ZUUU02_2020-07-20_00-07-35_530	one two eight decimal tree seven fife good day sichuan eight seven tree one 
+ZUUU02_2020-07-20_00-10-45_700	good morning chengdu control air juneyao one one zero seven maintaining nine thousand fife hundred meters squawk six four two seven fife miles right 
+ZUUU02_2020-07-20_00-14-00_340	okayjet two zero niner seven contact kunming control on one two four decimal fife fife good day 
+ZUUU02_2020-07-20_00-14-07_870	one two four decimal fife fife okayjet two seven niner seven good day 
+ZUUU02_2020-07-20_00-14-27_070	cargolux seven four one seven contact chengdu on one tree tree decimal six fife good day 
+ZUUU02_2020-07-20_00-14-33_320	one tree tree decimal six fife cargolux seven four one seven bye 
+ZUUU02_2020-07-20_00-19-14_160	air juneyao one one zero zero request climb maintain one zero thousand one hundred meters 
+ZUUU02_2020-07-20_00-19-20_900	uh sorry is niner niner standby uh maintain present level 
+ZUUU02_2020-07-20_00-19-24_750	roger maintain present level air juneyao one one two zero zero 
+ZUUU02_2020-07-20_00-22-55_460	radar good day nirod cargo two two four five heavy maintaining nine thousand eight hundred meters fife miles right of track 
+ZUUU02_2020-07-20_00-23-01_210	glon cargo three zero four chengdu control radar contact uh can you accept one zero thousand four hundred meters 
+ZUUU02_2020-07-20_00-23-20_250	uh airbo cargo two two four five devia two heavy 
+ZUUU02_2020-07-20_00-23-24_940	uh clear for the four climb maintain one thousand eight hundred meters 
+ZUUU02_2020-07-20_00-23-28_270	maintain niner thousand eight hundred meters airbridge cargo uh two two four fife 
+ZUUU02_2020-07-20_00-27-06_670	air juneyao one one zero zero contact chengdu on one three two decimal two fife good day 
+ZUUU02_2020-07-20_00-27-11_070	one tree two uh decimal two five air juneyao one one zero two 
+ZUUU02_2020-07-20_00-33-57_270	firing cargo two two four niner contact chengdu on one tree tree decimal six fife good day 
+ZUUU02_2020-07-20_00-34-03_980	uh confirm one tree tree decimal six fife normal cargo two two four five 
+ZUUU02_2020-07-20_00-34-07_910	uh nippon cargo two tree four one one three three decimal four five uh six fife 
+ZUUU02_2020-07-20_00-34-12_250	one tree tree decimal six five air can two two four five thank you 
+ZUUU02_2020-07-20_00-44-08_250	chengdu good morning united eagle two two one seven maintain one one thousand three hundred meters 
+ZUUU02_2020-07-20_00-44-12_410	united eagle two two one zero chengdu control radar contact 
+ZUUU02_2020-07-20_00-52-40_650	united eight united eagle two two one seven contact nanning on one two eight decimal tree four nine good day 
+ZUUU02_2020-07-20_00-52-47_490	one two eight three seven fife united eagle two two one seven good day 
+ZUUU02_2020-07-20_01-09-03_190	pes alta cau zero seven 
+ZUUU02_2020-07-20_01-21-03_180	control good morning uh airbridge cargo seven four eight heavy maintaining eight thousand four hundred meters uh three miles right of track squawk five one four tree 
+ZUUU02_2020-07-20_01-21-12_870	airbridge cargo seven four eight chengdu control radar contact 
+ZUUU02_2020-07-20_01-21-16_860	airbridge cargo four four eight and request flame three four four uh hold no dire 
+ZUUU02_2020-07-20_01-21-22_010	airbridge cargo seven four eight uh sorry maintain seven via flight plan route 
+ZUUU02_2020-07-20_01-25-34_470	kunming control turkish six two two one heavy maintain eight thousand four hundred meters offset three miles right of track 
+ZUUU02_2020-07-20_01-25-42_600	turkish six two two one chengdu confirm squawk 
+ZUUU02_2020-07-20_01-25-46_800	and squawking three one one six 
+ZUUU02_2020-07-20_01-25-49_980	turkish six two one chengdu control radar contact 
+ZUUU02_2020-07-20_01-25-53_700	turkish six two two one due to more than tree miles request higher level 
+ZUUU02_2020-07-20_01-25-57_800	uh turkish six three one sorry sumun report higher maintain present level 
+ZUUU02_2020-07-20_01-26-03_090	eight nine tree three hundred meters maintain request request nihao one one uh more than tree zero zero 
+ZUUU02_2020-07-20_01-26-11_970	uh turkish six tree one now about deviate mant right of track 
+ZUUU02_2020-07-20_01-26-18_610	uh four eight to tango victor on uh call i closed and ombon uh foxtrar ital re in over out juliett sierra 
+ZUUU02_2020-07-20_01-27-43_200	turkish six three one are you one zero thousand one hundred meters 
+ZUUU02_2020-07-20_01-27-48_520	affirm uniform turkish six two two one turkish two one correct uh initially climb to and maintain niner thousand two hundred meters 
+ZUUU02_2020-07-20_01-27-57_530	initial climb maintain niner thousand two hundred meters turkish six two two one thank you 
+ZUUU02_2020-07-20_01-31-26_800	uh turkish six three one climb to and maintain niner tousand eight hundred meters 
+ZUUU02_2020-07-20_01-31-30_200	climb maintain niner thousand eight hundred meters turkish six two two one 
+ZUUU02_2020-07-20_01-31-35_570	turkish six two two one expedite climb 
+ZUUU02_2020-07-20_01-33-38_980	airbridge cargo four eight uh correction airbridge cargo four zero eight contact chengdu on one tree tree decimal six fife good day 
+ZUUU02_2020-07-20_01-33-47_260	one three three decimal uh six five airbridge cargo seven four eight uh we heavy charlie nine one three three decimal seven fife 
+ZUUU02_2020-07-20_01-33-57_570	one three three decimal seven fife airbridge cargo seven four eight thank you good day 
+ZUUU02_2020-07-20_01-34-03_900	uh airbridge cargo four zero eight uh sorry uh correction contact one three three decimal six fife 
+ZUUU02_2020-07-20_01-34-09_890	one three three decimal six fife airbridge cargo seven four eight 
+ZUUU02_2020-07-20_01-36-31_060	turkish six two two one tree requesting flight level eleven thousand meters 
+ZUUU02_2020-07-20_01-36-39_270	maintain nine thousand eight hundred meters and request eleven thousand meters 
+ZUUU02_2020-07-20_01-36-46_770	cathay two three one maintain niner tousand eight hundred meters due traffic 
+ZUUU02_2020-07-20_01-38-18_380	turkish six tree one contact chengdu on one three three decimal six fife good day one three three six fife turkish six two two one good day 
+ZUUU02_2020-07-20_01-51-03_080	stand maintain deviation to bravo hote 
+ZUUU02_2020-07-20_01-54-24_550	uh quebec kilo whiskey echo thank you one one descend 
+ZUUU02_2020-07-20_02-15-52_830	chengdu good morning moscow niner four eight seven maintaining niner thousand eight hundred meters five three one three and squawk and fife miles right of track 
+ZUUU02_2020-07-20_02-16-00_140	moscow niner four eight seven chengdu radar contact maintain level 
+ZUUU02_2020-07-20_02-16-04_620	maintain level moscow niner four eight seven 
+ZUUU02_2020-07-20_02-19-06_900	moscow niner four eight seven cancel offset direct to masro 
+ZUUU02_2020-07-20_02-19-10_400	direct to masro moscow niner four eight seven 
+ZUUU02_2020-07-20_02-19-14_660	uh moscow niner four eight seven cancel offset direct to masro 
+ZUUU02_2020-07-20_02-19-17_890	uh cancel offset direct to masro moscow niner four eight seven 
+ZUUU02_2020-07-20_02-28-04_150	moscow niner four eight seven contact chengdu control one three three decimal six fife bye bye 
+ZUUU02_2020-07-20_02-28-10_520	one tree tree decimal six fife bye bye moscow niner four eight seven 
+ZUUU02_2020-07-20_02-48-25_840	chengdu control good morning china southern five two tree one maintain eight thousand four hundred meters squawk tree one two four fife miles right of track 
+ZUUU02_2020-07-20_02-48-33_970	china five two three one chengdu radar contact maintain level 
+ZUUU02_2020-07-20_02-48-37_430	maintain level china southern five two tree one 
+ZUUU02_2020-07-20_02-48-50_650	china southern five two tree one is higher level available 
+ZUUU02_2020-07-20_02-48-54_330	china southern five two tree are you able one zero tousand four hundred meters 
+ZUUU02_2020-07-20_02-48-58_580	negative destabrine nine thousand two hundred meters china southern five six tree one 
+ZUUU02_2020-07-20_02-49-02_860	uh negative china southern five two tree one how about niner thousand eight hundred meters 
+ZUUU02_2020-07-20_02-49-08_610	negative uh nother five tree tree one 
+ZUUU02_2020-07-20_02-49-10_880	uh sorry seven uh four five two three one due to converge traffic maintain present level 
+ZUUU02_2020-07-20_02-49-15_360	maintain level china southern five two tree one 
+ZUUU02_2020-07-20_02-50-18_470	china five two tree one cancel offset direct to masro 
+ZUUU02_2020-07-20_02-53-02_710	dragon eight eight six one zero thousand four hundred meters squawk is five seven six six 
+ZUUU02_2020-07-20_02-53-06_260	dragon eight eight six chengdu radar contact maintain level 
+ZUUU02_2020-07-20_02-53-09_600	maintain requesting direct to masro 
+ZUUU02_2020-07-20_02-53-12_110	qatari air eight eight six cancel offset direct to masro direct masro dragon eight eight six 
+ZUUU02_2020-07-20_02-56-44_320	chengdu good day german cargo five one seven maintaining eight thousand four hundred meters offset five five miles 
+ZUUU02_2020-07-20_02-56-51_000	german cargo five one seven confirm squawk 
+ZUUU02_2020-07-20_02-56-54_140	squawk five three one two german cargo five one seven 
+ZUUU02_2020-07-20_02-57-01_040	maintain level german cargo fife one seven 
+ZUUU02_2020-07-20_02-57-41_380	nanning zero seven fife one november seven 
+ZUUU02_2020-07-20_03-00-04_600	china southern five two tree one contact chengdu one three three decimal six fife bye bye 
+ZUUU02_2020-07-20_03-00-10_480	one tree tree six five china southern five tree tree one good day 
+ZUUU02_2020-07-20_03-06-11_180	dragon air eight eight six contact chengdu control one three three decimal six fife bye bye 
+ZUUU02_2020-07-20_03-06-17_910	chengdu one three three six fife dragon eight eight six good day 
+ZUUU02_2020-07-20_03-07-18_050	german cargo five one seven contact chengdu control one three three decimal six fife bye bye 
+ZUUU02_2020-07-20_03-07-25_250	one three three decimal six fife german cargo five one seven goodbye 
+ZUUU02_2020-07-20_04-16-20_810	chengdu nihao speedbird tree one flight level one one thousand three hundred meters 
+ZUUU02_2020-07-20_04-16-26_330	speedbird tree one chengdu control radar contact maintain level standby for higher 
+ZUUU02_2020-07-20_04-16-31_690	uh maintain level speedbird three one 
+ZUUU02_2020-07-20_04-21-17_520	speedbird three one climb and maintain one one thousand niner hundred meters 
+ZUUU02_2020-07-20_04-21-22_060	uh climb and maintain one one thousand niner hundred meters speedbird three one 
+ZUUU02_2020-07-20_04-21-54_310	speedbird tree one cancel offset direct to idepo 
+ZUUU02_2020-07-20_04-21-58_300	direct to idepo speedbird three one 
+ZUUU02_2020-07-20_04-27-03_990	speedbird tree one contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-20_04-27-07_620	one tree tree decimal one speedbird tree one good day 
+ZUUU02_2020-07-20_04-29-53_560	air five seven three zero chengdu niar exbee sie 
+ZUUU02_2020-07-20_04-32-54_060	chengdu good afternoon united eagle two two one eight nine thousand eight hundred meters uh uh heading two niner fife due weather lima golf 
+ZUUU02_2020-07-20_04-33-02_790	united eagle two two one eight squawk ident 
+ZUUU02_2020-07-20_04-33-26_130	united eagle two two one eight due squawk ident 
+ZUUU02_2020-07-20_04-33-29_790	affirm we are heading three one zero seven 
+ZUUU02_2020-07-20_04-33-32_680	uh united eagle two two one eight confirm uh position uh radar contact maintain level uh after clear of weather direct to masro join plan route 
+ZUUU02_2020-07-20_04-33-42_330	copy that nine heavy maintain heading uh three one zero now the clear weather direct to masro flight plan route united eagle two two one eight 
+ZUUU02_2020-07-20_04-44-12_180	united eagle two two one eight contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-20_04-44-21_680	one tree tree decimal six five good day united eagle two two one eight 
+ZUUU02_2020-07-20_08-47-54_610	chengdu nihao eva seven six fife maintain one zero thousand four hundred meters offset two zero miles right of track 
+ZUUU02_2020-07-20_08-48-02_050	eva seven six seven confirm your squawk 
+ZUUU02_2020-07-20_08-48-05_820	uh squawk is two six six three eva seven six fife 
+ZUUU02_2020-07-20_08-48-17_060	roger direct to masro resume own navigation eva seven six fife 
+ZUUU02_2020-07-20_09-16-40_310	control southern air zero niner eight heavy flight level one zero thousand one hundred meters 
+ZUUU02_2020-07-20_09-16-46_160	southern air zero niner eight chengdu radar contact maintain level 
+ZUUU02_2020-07-20_09-16-50_520	maintain level radar contact siberie seve eight niner eight heavy 
+ZUUU02_2020-07-20_09-25-19_650	southern air zero niner eight contact nanning on one tree tree decimal one good day 
+ZUUU02_2020-07-20_09-25-24_030	one tree tree decimal one good day southern air zero niner eight heavy 
+ZUUU02_2020-07-20_09-26-14_990	chengdu good afternoon ups four two maintaining eleven thousand three hundred meters squawking seven zero seven two 
+ZUUU02_2020-07-20_09-26-23_690	ups four chengdu radar contact are you able one one thousand niner hundred meters 
+ZUUU02_2020-07-20_09-26-29_190	ups four level one one thousand niner hundred meters 
+ZUUU02_2020-07-20_09-26-32_050	ups four chengdu roger maintain level standby for higher 
+ZUUU02_2020-07-20_09-26-36_390	ups four maintaining eleven thousand three hundred meters 
+ZUUU02_2020-07-20_09-31-19_970	ups four climb maintain one one thousand niner hundred meters 
+ZUUU02_2020-07-20_09-31-24_890	ups four climb maintain one one thousand niner hundred meters 
+ZUUU02_2020-07-20_09-35-07_670	ups four contact nanning on one tree tree decimal one good day 
+ZUUU02_2020-07-20_09-35-12_600	one tree tree decimal one ups four good day 
+ZUUU02_2020-07-20_10-51-35_560	chengdu good afternoon german cargo five one niner level eight thousand four hundred meters 
+ZUUU02_2020-07-20_10-51-44_110	uh squawking fife three two two german cargo five one niner 
+ZUUU02_2020-07-20_10-51-48_980	german niner fife five niner chengdu control radar contact cancel offset direct to sumu 
+ZUUU02_2020-07-20_10-51-53_730	cancel offset direct to sumun german cargo fife one niner thank you 
+ZUUU02_2020-07-20_11-02-19_470	german cargo seven niner eight contact chengdu control on one three three decimal six fife good day 
+ZUUU02_2020-07-20_11-02-25_050	one three three six fife good day german cargo fife one niner 
+ZUUU02_2020-07-20_11-26-18_090	chengdu control turkish six four niner one heavy flight level eight thousand four hundred meters we can for this 
+ZUUU02_2020-07-20_11-26-39_300	turkish six four niner one chengdu control radar contact can you accept one zero thousand four hundred meters 
+ZUUU02_2020-07-20_11-26-46_080	negainto turkish six four niner one request flight level nine thousand two hundred meters 
+ZUUU02_2020-07-20_11-26-52_340	turkish six five niner niner two due to converging traffic maintain present level due traffic insimation uh maintain head four kilo whiskey echo four cation 
+ZUUU02_2020-07-20_11-35-37_830	turkish six four niner one contact chengdu control on one three three decimal six fife good day 
+ZUUU02_2020-07-20_11-35-43_670	one three three six fife bye bye turkish six four niner one 
+ZUUU02_2020-07-20_14-14-50_330	chengdu good day cargolux seven two one one level eight thousand four hundred meters 
+ZUUU02_2020-07-20_14-15-00_160	maintain level cargolux seven two one one 
+ZUUU02_2020-07-20_14-18-55_210	cargolux seven two one one contact chengdu control one tree tree decimal six fife good day 
+ZUUU02_2020-07-20_14-19-01_220	eight tree six fife cargolux seven two one one good day 
+ZUUU02_2020-07-20_14-47-16_720	chengdu control sichuan eight seven four six 
+ZUUU02_2020-07-20_14-47-20_070	sierra one four zero maintaining eight thousand four hundred meters squawk three one one five 
+ZUUU02_2020-07-20_14-47-27_160	uh roger thank you sichuan eight seven four zero 
+ZUUU02_2020-07-20_14-59-59_230	sichuan eight seven one zero contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-20_15-00-05_940	one three three decimal six fife sichuan eight seven two zero good day 
+ZUUU02_2020-07-20_15-14-21_190	one from monitor one two four decimal niner fife 
+ZUUU02_2020-07-20_23-49-33_750	control good morning uh emirates three eight niner maintaining flight level one three thousand seven hundred meters 
+ZUUU02_2020-07-20_23-49-45_370	uh echo alpha four three eight you can e ansigher 
+ZUUU02_2020-07-20_23-49-49_950	squawk ident uh echo areallel tango 
+ZUUU02_2020-07-20_23-49-55_650	air hana five seven three thengdu chengdu radar contact 
+ZUUU02_2020-07-20_23-50-26_220	echo alpha four tree seven now contact nanning control one three three decimal one bye bye 
+ZUUU02_2020-07-20_23-50-32_130	one three three decimal one emirates tree eight seven thank you have a good day 
+ZUUU02_2020-07-20_23-57-15_830	chengdu control good morning sichuan eight seven tree one level one one thousand three hundred meters 
+ZUUU02_2020-07-20_23-57-19_510	sichuan eight seven three one chengdu radar contact 
+ZUUU02_2020-07-20_23-59-10_540	chengdu air juneyao one one zero zero maintain niner tousand five hundred meters fife miles right of track squawk six four tree seven 
+ZUUU02_2020-07-20_23-59-26_100	uh uh we are able air juneyao one one zero zero 
+ZUUU02_2020-07-20_23-59-30_790	easthin niner one one zero zero seven standby for higher 
+ZUUU02_2020-07-21_00-06-36_070	one tree tree decimal one bye bye sichuan eight seven tree one 
+ZUUU02_2020-07-21_00-10-06_770	control fedex two one level eight thousand four hundred meters offset right fife miles request nine thousand two hundred meters 
+ZUUU02_2020-07-21_00-10-18_760	fedex two one squawk ident 
+ZUUU02_2020-07-21_00-10-26_650	uh say two one two uh uh control radar contact can you accept niner thousand eight hundred meters 
+ZUUU02_2020-07-21_00-10-38_210	affirmative fedex two one can you accept uh nine thousand eight hundred meters 
+ZUUU02_2020-07-21_00-10-46_100	fedex two one uh standby 
+ZUUU02_2020-07-21_00-12-03_880	fedex two one climb and maintain niner thousand eight hundred meters 
+ZUUU02_2020-07-21_00-12-07_640	climb maintain nine thousand eight hundred meters fedex two one 
+ZUUU02_2020-07-21_00-18-51_410	una e one zero zero contact chengdu control one tree two decimal two fife good day 
+ZUUU02_2020-07-21_00-18-56_450	uh one three two decimal two five air can i eight 
+ZUUU02_2020-07-21_00-21-27_990	aoshanghao good afternoon tango uniform papa eight eight four six maintaining uh niner thousand eight hundred meters squawk two five three three four 
+ZUUU02_2020-07-21_00-21-39_050	uh tango uniform papa eight eight two six squawk ident 
+ZUUU02_2020-07-21_00-21-45_270	uh squawk five three three zero ident 
+ZUUU02_2020-07-21_00-22-01_870	uh tango uniform niner eight eight two six chengdu control radar contact before heavy level eight thousand four hundred meters fife miles right of track approaching ike ma col squawk three one zero two 
+ZUUU02_2020-07-21_00-22-19_140	uh fedex two one contact chengdu control one tree tree decimal six fife good day 
+ZUUU02_2020-07-21_00-22-27_560	one two three decimal six fife good day fedex two one 
+ZUUU02_2020-07-21_04-44-43_450	ups two contact nanning control one three three decimal one bye bye 
+ZUUU02_2020-07-21_04-44-48_270	one three three one ups two goodbye 
+ZUUU02_2020-07-21_04-47-26_630	cargolux five tree two seven contact chengdu control one three three decimal six fife bye bye 
+ZUUU02_2020-07-21_04-47-33_450	one three three six fife cargolux five six seven fife 
+ZUUU02_2020-07-21_04-49-26_350	go sierra xray chengdu radar ads metrech left presey mile for 
+ZUUU02_2020-07-21_05-28-33_020	guangzhou control hello klm eight zero eight flight level ten thousand four hundred meters 
+ZUUU02_2020-07-21_05-31-14_340	uh klm eight zero eight when can we are expect higher level ge 
+ZUUU02_2020-07-21_05-31-19_740	klm eight zero eight request higher level after xray yankee oscar fa xray control right due to military activi 
+ZUUU02_2020-07-21_05-31-27_100	roger thank you klm eight zero eight 
+ZUUU02_2020-07-21_05-32-27_410	chengdu control air spring eight niner five four uh request higher level 
+ZUUU02_2020-07-21_05-32-32_440	air spring eight five four higher level expect after ubdid due to actiti 
+ZUUU02_2020-07-21_05-32-40_610	uh copy air spring eight niner fife four 
+ZUUU02_2020-07-21_05-40-10_820	klm eight zero eight contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-21_05-40-16_430	one tree tree six fife klm eight zero eight bye bye 
+ZUUU02_2020-07-21_05-47-16_310	air spring eight niner fife four contact chengdu control one three two decimal two fife good day 
+ZUUU02_2020-07-21_05-47-23_000	uh chengdu control one tree two decimal two fife good day air spring eight niner five fife four 
+ZUUU02_2020-07-21_09-17-59_880	uh chengdu control air juneyao one zero one niner maintain niner tousand two hundred meters 
+ZUUU02_2020-07-21_09-18-03_460	air juneyao one zero one niner chengdu radar contact 
+ZUUU02_2020-07-21_09-18-56_200	china air changan two four zero for fore nany on to no po chance on proaching zero over donla 
+ZUUU02_2020-07-21_09-25-52_500	air juneyao one zero one niner descend maintain eight thousand four hundred meters 
+ZUUU02_2020-07-21_09-25-58_750	descend maintain eight thousand four hundred meters air juneyao one zero one niner 
+ZUUU02_2020-07-21_09-27-10_480	sichuan eight seven seven one tree is ten tree zaijian 
+ZUUU02_2020-07-21_09-33-27_610	air juneyao one zero one niner contact kunming on one two four decimal fife fife good day 
+ZUUU02_2020-07-21_09-33-33_400	uh kunming control one two four fife fife air juneyao one zero one niner good day 
+ZUUU02_2020-07-21_10-03-39_320	chengdu ups four fife level eight thousand four hundred meters request higher 
+ZUUU02_2020-07-21_10-03-46_200	ups five confirm squawk 
+ZUUU02_2020-07-21_10-03-49_640	squawking five one six four 
+ZUUU02_2020-07-21_10-03-53_380	ups five chengdu control radar contact climb maintain eight thousand four hundred meters descend separation request higher after xray yankee oscar 
+ZUUU02_2020-07-21_10-04-04_550	copy request thent higher direct to yankee alpha ups five thank you 
+ZUUU02_2020-07-21_10-13-16_590	ups fife now contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-21_10-13-23_590	one tree tree decimal six fife ups five 
+ZUUU02_2020-07-21_10-14-21_880	uh chengdu good evening lucky air niner eight fife fife maintaining niner thousand five hundred meters squawk six four zero six 
+ZUUU02_2020-07-21_10-14-28_350	lucky air niner eight fife fife chengdu squawk ident 
+ZUUU02_2020-07-21_10-14-39_270	lucky air niner eight fife fife chengdu control radar contact 
+ZUUU02_2020-07-21_10-15-44_930	lucky air niner eight fife five offset fife miles right of track 
+ZUUU02_2020-07-21_10-15-49_580	offset fife miles right lucky air niner eight fife fife 
+ZUUU02_2020-07-22_09-44-53_850	sichuan eight eight seven niner descend maintain niner thousand five hundred meters 
+ZUUU02_2020-07-22_09-44-58_290	roger descend to niner thousand five hundred meters sichuan eight eight seven niner 
+ZUUU02_2020-07-22_09-45-04_420	uh sichuan eight eight seven niner traffic can you are block one eight tree meters 
+ZUUU02_2020-07-22_09-46-28_110	uh chengdu good afternoon sichuan eight seven tree four uh maintain eight thousand four hundred meters squawk four two zero two uh fife miles right 
+ZUUU02_2020-07-22_09-46-37_000	sichuan eight seven three four squawk ident 
+ZUUU02_2020-07-22_09-46-41_360	uh squawk ident sichuan eight seven tree four 
+ZUUU02_2020-07-22_09-46-44_880	sichuan eight eight seven niner normal speed 
+ZUUU02_2020-07-22_09-46-48_800	normal speed sichuan eight eight seven niner 
+ZUUU02_2020-07-22_09-46-51_810	sichuan eight seven tree four chengdu radar contact maintain level 
+ZUUU02_2020-07-22_09-46-55_000	uh maintain level sichuan eight seven tree four 
+ZUUU02_2020-07-22_09-48-36_150	sichuan eight eight seven niner contact nanning on one tree tree decimal one good day 
+ZUUU02_2020-07-22_09-48-41_690	roger contact nanning control one three three decimal one sichuan eight eight seven niner have a good day 
+ZUUU02_2020-07-22_09-51-28_350	chengdu control yangzi river seven fife two tree maintain niner thousand eight hundred meters three one five seven offset tree miles right 
+ZUUU02_2020-07-22_09-51-37_880	yangzi river seven five tree tree chengdu radar contact 
+ZUUU02_2020-07-22_09-59-31_960	sichuan eight seven tree four contact chengdu on one three three decimal six fife good day 
+ZUUU02_2020-07-22_09-59-37_210	uh chengdu one tree tree decimal six fife good day sichuan eight seven tree four 
+ZUUU02_2020-07-22_10-03-09_080	control ups five flight level eight thousand four hundred meters 
+ZUUU02_2020-07-22_10-03-16_180	squawk five one four two 
+ZUUU02_2020-07-22_10-04-22_050	yangzi river seven five tree tree contact chengdu on one three three decimal six fife good day 
+ZUUU02_2020-07-22_10-04-28_840	one tree tree decimal six fife good day yangzi river seven fife tree tree 
+ZUUU02_2020-07-22_10-06-20_280	uh ups five one five uh nine thousand two hundred meters when able 
+ZUUU02_2020-07-22_10-06-26_500	siberia five chengdu request higher after xray yankee oscar due crossing traffic direct to go four zero miles 
+ZUUU02_2020-07-22_10-13-03_860	chengdu control good evening cargolux seven niner six two maintaining one zero thousand one hundred meters 
+ZUUU02_2020-07-22_10-13-07_070	cargolux seven niner six tree chengdu radar contact maintain level 
+ZUUU02_2020-07-22_10-15-24_090	ups four contact chengdu on one tree tree decimal six fife good day 
+ZUUU02_2020-07-22_10-15-29_170	one three three six fife ups five good day 
+ZUUU02_2020-07-22_10-22-18_630	cargolux seven niner six two contact nanning control on one tree tree decimal one bye bye 
+ZUUU02_2020-07-22_10-22-24_600	one three three decimal one cargolux seven niner six two good night 
+ZUUU02_2020-07-22_10-38-59_140	good morning tower chengdu control on one two four decimal niner fife 
+ZUUU02_2020-07-22_11-58-10_650	chengdu hello airbridge cargo two tree niner heavy maintain one one thousand three hundred meters uh e approaching kilo whiskey echo 
+ZUUU02_2020-07-22_11-58-20_860	airbridge cargo two tree niner chengdu radar contact maintain level 
+ZUUU02_2020-07-22_12-02-25_580	kunming uh chengdu nihao november niner one five zero not available eight niner zero two seven four tree tree 
+ZUUU02_2020-07-22_12-03-12_790	airbridge cargo two tree niner cancel offset direct to idepo 
+ZUUU02_2020-07-22_12-03-18_590	direct to idepo airbridge cargo two tree niner cancel offset 
+ZUUU02_2020-07-22_12-07-01_860	airbridge cargo two tree niner contact nanning on one tree tree decimal one good day 
+ZUUU02_2020-07-22_12-07-08_180	one tree tree one airbridge cargo two tree niner goodbye 
+ZUUU02_2020-07-22_12-11-11_850	control good day cathay six seven six delta maintaining one one thousand three hundred meters squawking five six three three 
+ZUUU02_2020-07-22_12-11-18_610	cathay six seven six zero chengdu radar contact maintain level 
+ZUUU02_2020-07-22_12-20-17_420	cathay six seven six delta contact nanning on one tree tree decimal one good day 
+ZUUU02_2020-07-22_12-20-25_070	one tree tree decimal one cathay uh six seven six delta 
+ZUUU02_2020-07-22_12-46-48_820	uh control fedex five three four two flight level one one thousand three hundred meters offset three miles right 
+ZUUU02_2020-07-22_12-46-55_770	fedex five tree four two chengdu radar contact maintain level 
+ZUUU02_2020-07-22_12-47-25_120	uh chengdu control good evening sichuan eight seven zero six uh nine thousand eight hundred meters squawk two four three three offset fife miles to the right 
+ZUUU02_2020-07-22_12-47-35_470	sichuan eight seven zero six chengdu radar contact maintain le 
+ZUUU02_2020-07-22_12-47-41_330	sichuan eight tree zero two radar contact 
+ZUUU02_2020-07-22_12-50-18_700	fedex five tree four two contact chengdu on one tree tree decimal six fife good day 
+ZUUU02_2020-07-22_12-50-23_730	one tree tree decimal six fife fedex fife tree four two good day 
+ZUUU02_2020-07-22_12-52-08_500	sichuan eight seven zero six contact chengdu on one tree tree decimal six fife good day 
+ZUUU02_2020-07-22_12-52-13_470	one tree tree six fife sichuan eight seven zero six good day 
+ZUUU02_2020-07-22_12-52-16_730	sichuan eight seven zero six one double tree decimal six fife 
+ZUUU02_2020-07-22_12-52-20_600	one tree tree six fife sichuan eight seven eight six goodbye 
+ZUUU02_2020-07-22_12-52-24_150	go are eight station contoli on one two four decimal niner fife 
+ZUUU02_2020-07-22_23-51-07_090	control air juneyao one one zero zero maintaining one zero thousand seven hundred meters 
+ZUUU02_2020-07-22_23-51-12_760	air juneyao one one zero seven confirm squawk 
+ZUUU02_2020-07-22_23-51-15_310	uh squawk six four three three one zero thousand seven hundred meters one three miles to papa two four niner 
+ZUUU02_2020-07-22_23-51-22_860	air juneyao one zero seven chengdu radar contact after papa two four niner offset fife miles right of track 
+ZUUU02_2020-07-22_23-51-29_520	offset uh fife miles right of track after papa two four niner air juneyao one one zero zero 
+ZUUU02_2020-07-23_00-09-50_130	air juneyao one one zero zero contact chengdu on one three two decimal two five good day 
+ZUUU02_2020-07-23_00-09-56_160	one tree two decimal two fife air juneyao one one zero zero good day 
+ZUUU02_2020-07-23_00-18-52_930	thai an tee victor mike golf 
+ZUUU02_2020-07-23_00-19-44_650	chengdu control good morning united eagle one uh two two tree fife maintain one zero thousand one hundred meters three miles right of track approaching kilo whiskey echo 
+ZUUU02_2020-07-23_00-19-53_140	united eagle two two three five chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_00-19-58_270	maintain level united eagle uh two two three fife 
+ZUUU02_2020-07-23_00-20-53_530	zero seven seven zero lucky air niner fife one zero sichuan eight eight two 
+ZUUU02_2020-07-23_00-21-31_000	radar nihao german cargo five eight one maintaining eight thousand four hundred meters five miles right of track 
+ZUUU02_2020-07-23_00-21-39_040	german cargo five eight one confirm your squawk 
+ZUUU02_2020-07-23_00-21-42_780	squawk five three two six 
+ZUUU02_2020-07-23_00-21-46_230	german cargo five eight one chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_00-21-50_080	maintain level german cargo five eight one 
+ZUUU02_2020-07-23_00-24-06_850	united eagle two two three five cancel offset join flight plan route 
+ZUUU02_2020-07-23_00-24-11_510	cancel offset join flight plan route united eagle two two tree fife 
+ZUUU02_2020-07-23_00-29-32_390	control united eagle two two tree fife readio check 
+ZUUU02_2020-07-23_00-29-36_200	united eagle two two three five read you five thank you 
+ZUUU02_2020-07-23_00-30-07_500	united eagle two two three five contact uh contact nanning on one tree tree decimal one good day 
+ZUUU02_2020-07-23_00-30-13_360	one tree tree decimal one united eagle two two tree fife good day 
+ZUUU02_2020-07-23_00-31-12_210	german cargo five eight one contact chengdu on one three three decimal six fife good day 
+ZUUU02_2020-07-23_00-31-17_590	one tree tree six fife goodbye german cargo fife eight one 
+ZUUU02_2020-07-23_00-38-49_210	chengdu control capital jet fife one six one maintain niner tousand eight hundred meters squawk four two one tree 
+ZUUU02_2020-07-23_00-38-58_700	capital jet five one six one chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_00-39-04_440	maintain level capital jet fife one six one 
+ZUUU02_2020-07-23_00-49-05_090	capital jet five one six one contact chengdu on one three three decimal six fife good day 
+ZUUU02_2020-07-23_00-49-13_550	contact chengdu on one tree tree decimal six fife good day capital jet five one six one 
+ZUUU02_2020-07-23_01-31-37_310	chengdu control thank you cargo two nine request offset 
+ZUUU02_2020-07-23_01-33-11_860	control fedex two one with you eight thousand four hundred meters squawk five three one five request 
+ZUUU02_2020-07-23_01-33-18_150	fedex two one chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_01-36-18_530	radar good morning uh alpha bravo delta four five seven seven uh maintaining uh one two thousand five hundred meters 
+ZUUU02_2020-07-23_01-36-26_910	alpha bravo delta four five seven seven chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_01-36-33_060	uh squawk four five seven seven 
+ZUUU02_2020-07-23_01-38-55_030	chengdu control good morning sichuan eight seven three maintain eight tousand niner hundred meters squawk seven four tree seven 
+ZUUU02_2020-07-23_01-39-02_420	sichuan eight seven seven tree chengdu control radar contact 
+ZUUU02_2020-07-23_01-43-21_460	fedex two one contact chengdu on one three three decimal six fife good day 
+ZUUU02_2020-07-23_01-43-25_350	one tree two decimal six fife good day fedex two one 
+ZUUU02_2020-07-23_01-45-05_740	sichuan eight seven seven tree climb and maintain niner thousand five hundred meters 
+ZUUU02_2020-07-23_01-45-09_650	niner thousand fife hundred meters sichuan eight seven tree 
+ZUUU02_2020-07-23_01-45-14_740	confirm climb nine thousand fife hundred meters sichuan eight seven three sichuan eight seven seven tree affirm 
+ZUUU02_2020-07-23_01-45-19_410	climb maintain niner tousand fife hundred meters sichuan eight seven seven tree 
+ZUUU02_2020-07-23_01-46-27_200	alpha bravo delta four five seven seven contact nanning on one three three decimal one six 
+ZUUU02_2020-07-23_01-46-34_390	nanning one three two one uh uh lan fife four five seven seven 
+ZUUU02_2020-07-23_01-46-40_550	victor alpha bravo delta four five seven seven contact nanning on one tree tree decimal one good day 
+ZUUU02_2020-07-23_01-46-46_570	qnh one three three one uh niner four five seven seven good day 
+ZUUU02_2020-07-23_01-49-17_180	sichuan eight seven seven tree contact kunming one three three decimal one bye bye 
+ZUUU02_2020-07-23_01-49-22_480	one tree tree one bye bye sichuan eight seven six zero 
+ZUUU02_2020-07-23_02-03-34_100	uh chengdu nihao air china five seven hotel maintaining flight level one one thousand six hundred meters inbound to elkal 
+ZUUU02_2020-07-23_02-03-46_540	squawking two seven three fife xian five seven eight zer 
+ZUUU02_2020-07-23_02-09-57_140	chengdu nihao moscow niner four niner one uh maintaining nine thousand eight hundred meters five three three four squawk 
+ZUUU02_2020-07-23_02-10-11_140	and moscow niner four niner one requesting one one thousand meters 
+ZUUU02_2020-07-23_02-12-20_790	moscow niner four niner one climb maintain one zero thousand four hundred meters 
+ZUUU02_2020-07-23_02-12-24_120	one zero thousand four hundred meters moscow niner four niner one 
+ZUUU02_2020-07-23_02-13-20_620	moscow niner four niner one expedite climb maintain one zero thousand four hundred meters wind in four minutes 
+ZUUU02_2020-07-23_02-13-26_460	expedite climb and rate two minutes moscow niner four niner one 
+ZUUU02_2020-07-23_02-13-48_880	tree tree six fife bye bye asiana fife seven zero seven 
+ZUUU02_2020-07-23_02-15-05_360	moscow niner four niner niner maintain one zero thousand four hundred meters request eight nine left to xray yankee oscar 
+ZUUU02_2020-07-23_02-15-14_020	maintain one zero thousand four hundred meters china eastern niner four niner one thank you 
+ZUUU02_2020-07-23_02-20-02_640	moscow niner four niner one contact chengdu control on one three three decimal six fife good day 
+ZUUU02_2020-07-23_02-20-08_450	chengdu three three six fife moscow niner four niner one bye bye 
+ZUUU02_2020-07-23_02-20-11_210	moscow niner four niner one one three three decimal six fife 
+ZUUU02_2020-07-23_02-20-16_670	one three three six fife moscow niner four niner one 
+ZUUU02_2020-07-23_02-23-34_350	kunming china southern six tree zero one maintaining one two thousand five hundred meters and three miles right of track 
+ZUUU02_2020-07-23_02-23-42_390	climb niner november six three zero one chengdu control radar contact cancel offset direct to idepo 
+ZUUU02_2020-07-23_02-23-51_130	cancel offset and direct to position report confirm 
+ZUUU02_2020-07-23_02-24-04_250	direct to irved air brave six three zero one flight plan on route thank you 
+ZUUU02_2020-07-23_02-32-03_870	control fedex five niner two five heavy level eight thousand four hundred meters 
+ZUUU02_2020-07-23_02-32-09_760	tain seven niner two seven chengdu control confirm squawk 
+ZUUU02_2020-07-23_02-32-13_180	fedex fife niner two fife squawking fife three two two requesting nine thousand two hundred meters unable 
+ZUUU02_2020-07-23_02-32-29_800	maintain present level radar contact fedex five nine two fife 
+ZUUU02_2020-07-23_02-32-53_200	uh control fedex five niner two five any chance for uh eight thousand niner hundred meters 
+ZUUU02_2020-07-23_02-33-05_270	maintain level standby for higher fedex five nine two fife 
+ZUUU02_2020-07-23_02-33-10_890	uh fedex fife niner two fife confirm we can request niner thousand eight hundred meters 
+ZUUU02_2020-07-23_02-33-16_700	uh negative eight thousand niner hundred meters fedex five nine two five 
+ZUUU02_2020-07-23_02-33-20_460	uh taxi one niner three five nine two one one information level is climb niner thousand eight hundred meters for one zero thousand four hundred meters 
+ZUUU02_2020-07-23_02-33-31_730	ok maintain present level fedex five nine two five 
+ZUUU02_2020-07-23_02-34-51_970	alpha bravo golf six three zero one contact nanning control on one three three decimal one good day 
+ZUUU02_2020-07-23_02-34-59_120	one tree tree decimal one air bravin six three zero one bye bye 
+ZUUU02_2020-07-23_02-42-23_340	fedex fife niner two fife contact chengdu control on one three three decimal six five good day 
+ZUUU02_2020-07-23_02-42-29_530	chengdu one three three six fife fedex five nine two fife 
+ZUUU02_2020-07-23_03-00-35_320	control good day sir cargo two two fife four heavy maintaining niner thousand eight hundred meters three right track squawk fife three four seven 
+ZUUU02_2020-07-23_03-10-44_140	one tree tree decimal six fife nippon cargo two two fife four juliett 
+ZUUU02_2020-07-23_03-42-10_090	chengdu good follow ils seventeen mer call you air sankinia tree eight two two two 
+ZUUU02_2020-07-23_04-00-02_440	chengdu control good afternoon united eagle two two tree six maintain nine thousand eight hundred meters and squawk tree one tree three offset fife miles right of track 
+ZUUU02_2020-07-23_04-00-12_930	united eagle two two tree six chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_04-00-15_670	maintain level united eagle two two tree six 
+ZUUU02_2020-07-23_04-02-08_990	united eagle two two three six cancel offset direct to sumun join the route 
+ZUUU02_2020-07-23_04-02-13_150	cancel offset direct to sumun join the plan route united eagle two two tree six 
+ZUUU02_2020-07-23_04-04-22_060	chengdu control capital jet five one seven eight maintain eight tousand niner hundred meters squawk one five one five two seven 
+ZUUU02_2020-07-23_04-04-30_490	capital jet five one seven eight chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_04-04-34_220	maintain level capital jet five uh capital jet five one zero eight 
+ZUUU02_2020-07-23_04-11-02_790	capital jet five one seven eight climb and maintain niner thousand five hundred meters 
+ZUUU02_2020-07-23_04-11-08_130	climb maintain niner tousand five hundred meters capital jet five one seven eight 
+ZUUU02_2020-07-23_04-12-22_290	united eagle two two tree six contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-23_04-12-27_780	one tree tree decimal six fife united eagle two two tree six de 
+ZUUU02_2020-07-23_04-15-26_390	capital jet five one seven eight contact nanning control one three three decimal one good day 
+ZUUU02_2020-07-23_04-15-31_500	one tree tree decimal one good day capital jet fife one zero eight 
+ZUUU02_2020-07-23_04-15-35_800	uh capital jet fife one five eight one three three one five three 
+ZUUU02_2020-07-23_04-15-39_450	one tree tree decimal one capital jet fife one zero eight 
+ZUUU02_2020-07-23_04-15-45_670	kunming control uh good afternoon speedbird three one maintaining one one thousand three hundred meters squawking two two seven fife 
+ZUUU02_2020-07-23_04-15-54_540	speedbird tree one chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_04-15-57_080	ok speedbird three one 
+ZUUU02_2020-07-23_04-25-00_080	uh speedbird tree one contact nanning control one three three decimal one good day 
+ZUUU02_2020-07-23_04-25-05_610	one three three decimal one speedbird three one bye bye 
+ZUUU02_2020-07-23_04-32-11_490	chengdu nihao sichuan eight seven seven four eight thousand four hundred meters two four six five is continue 
+ZUUU02_2020-07-23_04-32-19_020	sichuan eight seven seven four chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_04-32-23_790	maintain level le chengdu sichuan eight seven seven four 
+ZUUU02_2020-07-23_04-33-41_730	offset tree miles right of track sichuan eight seven seven four 
+ZUUU02_2020-07-23_04-43-08_100	sichuan eight seven seven four contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-23_04-43-13_220	one three three decimal six five uh eight seven seven four 
+ZUUU02_2020-07-23_04-43-19_810	uh sichuan eight seven seven four your block say again uh please 
+ZUUU02_2020-07-23_04-43-23_280	one three three decimal six fife sichuan eight seven seven four 
+ZUUU02_2020-07-23_04-51-52_460	chengdu control cargolux seven niner three maintaining nine thousand eight hundred meters 
+ZUUU02_2020-07-23_04-51-56_980	cargolux seven niner niner tree chengdu confirm your squawk 
+ZUUU02_2020-07-23_04-52-07_110	cargolux seven niner tree chengdu radar contact offset change to fife miles right of track 
+ZUUU02_2020-07-23_04-52-12_540	fife miles right of track seven nine nine tree 
+ZUUU02_2020-07-23_05-00-41_370	chengdu control nihao german cargo five two three heavy niner thousand eight hundred meters in not massibl five miles right of track 
+ZUUU02_2020-07-23_05-00-51_390	german cargo five two tree hello chengdu confirm squawk 
+ZUUU02_2020-07-23_05-00-54_870	squawk tree one zero one german cargo five two three 
+ZUUU02_2020-07-23_05-00-58_650	german cargo five two three radar contact 
+ZUUU02_2020-07-23_05-01-23_100	cargolux seven niner niner tree contact chengdu one three three decimal six fife bye bye 
+ZUUU02_2020-07-23_05-01-29_020	one three three six fife cargolux seven niner tree good day 
+ZUUU02_2020-07-23_05-10-29_610	german cargo five two three contact chengdu one three three decimal six fife bye bye 
+ZUUU02_2020-07-23_05-10-39_850	german cargo five two tree contact chengdu one three three decimal six fife bye bye 
+ZUUU02_2020-07-23_05-10-45_550	one three three decimal six fife german cargo five two three bye bye 
+ZUUU02_2020-07-23_05-15-49_570	xi masro nine one five two super 
+ZUUU02_2020-07-23_05-22-13_750	sichuan eight seven four four chengdu position kilo of the roger heading 
+ZUUU02_2020-07-23_05-37-41_310	uh doing eight treble eight altitude and cancel offset 
+ZUUU02_2020-07-23_05-52-32_640	chengdu ups two maintaining eleven thousand three hundred meters 
+ZUUU02_2020-07-23_05-52-36_410	ups two hello chengdu control radar contact 
+ZUUU02_2020-07-23_06-01-55_980	ups two contact nanning one three three decimal one bye bye 
+ZUUU02_2020-07-23_06-02-00_840	one tree tree decimal one ups two good day 
+ZUUU02_2020-07-23_06-38-24_870	chengdu hello alpha bravo delta four fife seven eight approaching elkal uh eight thousand four hundred meters requesting nine thousand eight hundred meters 
+ZUUU02_2020-07-23_06-38-36_000	china southern four five seven eight hello chengdu control radar contact standby for higher 
+ZUUU02_2020-07-23_06-39-53_170	luck one four five seven uh climb maintain niner tousand eight hundred meters 
+ZUUU02_2020-07-23_06-39-58_450	climb and maintain nine thousand eight hundred meters alpha tow nove four fife seven eight 
+ZUUU02_2020-07-23_06-46-37_840	guiyang control sichuan eight seven zero tree maintain eight tousand niner hundred meters squawk is one five zero tree six 
+ZUUU02_2020-07-23_06-46-45_530	sichuan eight seven zero three hello chengdu control radar contact 
+ZUUU02_2020-07-23_06-46-51_410	uh please say again sichuan eight seven zero three 
+ZUUU02_2020-07-23_06-46-53_740	sichuan eight seven zero three radar contact 
+ZUUU02_2020-07-23_06-48-32_840	alpha golf delta four five seven eight contact chengdu one three three decimal six fife bye bye 
+ZUUU02_2020-07-23_06-48-39_300	one tree tree decimal six fife good day uh loulan four five seven eight 
+ZUUU02_2020-07-23_06-55-32_830	uh control good day virgin two zero six maintaining flight level one two thousand five hundred meters 
+ZUUU02_2020-07-23_06-55-38_240	uh virgin two zero six chengdu radar contact maintain level 
+ZUUU02_2020-07-23_06-55-42_830	maintain level virgin two zero six 
+ZUUU02_2020-07-23_06-58-07_740	sichuan eight seven zero tree contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-23_06-58-12_700	one tree tree decimal one sichuan eight seven zero three good day 
+ZUUU02_2020-07-23_07-05-04_120	virgin two zero six contact guangzhou control one tree tree decimal one good day 
+ZUUU02_2020-07-23_07-05-09_650	one three three decimal one virgin two zero six good day 
+ZUUU02_2020-07-23_07-12-43_530	good e eight tration monitor on one two four decimal niner five 
+ZUUU02_2020-07-23_08-33-10_370	sierra hotel nine nine sube three in seven five is nine and due to route maintain x di 
+ZUUU02_2020-07-23_09-09-54_360	japan air uh three 
+ZUUU02_2020-07-23_09-22-06_070	chengdu good morning ethiopian uh three six one four maintaining uh one one thousand three hundred meters 
+ZUUU02_2020-07-23_09-22-13_400	ethiopian tree six one four chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_09-31-21_710	ethiopian tree six one four contact nanning control one three three decimal one good day 
+ZUUU02_2020-07-23_09-31-26_850	nanning one three three decimal one fife dio jet three six one four 
+ZUUU02_2020-07-23_09-31-30_340	cathay tree six one four one three three decimal one good day 
+ZUUU02_2020-07-23_09-31-34_720	one three three decimal one copy thank you 
+ZUUU02_2020-07-23_09-42-59_800	chengdu control good afternoon yangzi river seven five tree three ten tousand four hundred meters squawk four two one four 
+ZUUU02_2020-07-23_09-43-07_560	yangzi river seven five tree tree chengdu control radar contact cancel offset direct to masro join the route 
+ZUUU02_2020-07-23_09-43-14_830	cancel offset direct to masro yangzi river seven fife two tree 
+ZUUU02_2020-07-23_09-54-56_370	yangzi river seven five tree tree contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-23_09-55-02_700	one tree tree decimal six fife good day yangzi river seven fife two tree 
+ZUUU02_2020-07-23_10-19-28_690	heavy correct monitor one two four decimal niner fife 
+ZUUU02_2020-07-23_12-52-31_900	uh chengdu fedex five three four two one one thousand three hundred meters offset right tree miles squawking one four four seven 
+ZUUU02_2020-07-23_12-52-40_130	fedex five tree four tree chengdu control radar contact confirm offset right fife miles 
+ZUUU02_2020-07-23_12-52-47_950	uh confirm offset right fife miles 
+ZUUU02_2020-07-23_12-58-27_800	fedex five tree four two uh cancel offset direct to idepo uh resume own navigation 
+ZUUU02_2020-07-23_12-58-35_130	direct to idepo india delta echo papa oscar uh cancel offset uh after uh fedex five three four two 
+ZUUU02_2020-07-23_13-01-26_990	fedex five tree four two contact nanning one three three decimal one good day 
+ZUUU02_2020-07-23_13-01-34_970	one two three decimal one three three decimal one fedex fife tree four two 
+ZUUU02_2020-07-23_13-01-39_400	uh fedex fife three four three affirm one three three decimal one 
+ZUUU02_2020-07-23_13-05-02_550	havo and correct monitor one two four decimal niner fife 
+ZUUU02_2020-07-23_14-04-46_070	yangzi river seven five tree four confirm squawk and level 
+ZUUU02_2020-07-23_14-04-50_910	yangzi river seven fife tree four eleven thousand three hundred meters and squawk one five two six yangzi river seven five tree four chengdu control radar contact 
+ZUUU02_2020-07-23_14-06-26_380	yangzi river seven five tree four descend to and maintain one zero thousand one hundred meters 
+ZUUU02_2020-07-23_14-06-32_170	descend one zero thousand one hundred meters yangzi river seven fife tree four 
+ZUUU02_2020-07-23_14-08-22_450	control ups one four maintaining one one thousand three hundred meters 
+ZUUU02_2020-07-23_14-08-26_860	ups one four chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_14-10-24_780	yangzi river seven five tree four contact nanning control one three three decimal one good day 
+ZUUU02_2020-07-23_14-10-31_330	uh nanning control one tree tree decimal one good day yangzi river seven fife tree four 
+ZUUU02_2020-07-23_14-16-26_390	ups one four contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-23_14-16-32_450	one three three one ups one four good day 
+ZUUU02_2020-07-23_14-20-09_190	chengdu control air spring six three one six good evening eight thousand four hundred meters uh squawk two four zero two 
+ZUUU02_2020-07-23_14-20-16_520	air spring six three one six chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_14-20-20_270	maintain level air spring six seven six 
+ZUUU02_2020-07-23_14-31-32_310	air spring six tree one six contact chengdu control one tree tree decimal six fife good day 
+ZUUU02_2020-07-23_14-31-38_970	one tree tree decimal six fife air spring six tree one six good day 
+ZUUU02_2020-07-23_14-39-15_250	uh chengdu one two seven one area mu chance in nine tree miles continue e seven one one eight 
+ZUUU02_2020-07-23_14-46-53_030	chengdu control air juneyao one zero niner niner maintain niner thousand two hundred meters fife miles romeo side 
+ZUUU02_2020-07-23_14-46-59_180	air juneyao one zero niner niner chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_14-47-03_160	maintain level air juneyao one zero niner niner 
+ZUUU02_2020-07-23_14-56-04_320	air juneyao one zero niner niner descend to and maintain eight thousand four hundred meters expedite 
+ZUUU02_2020-07-23_14-56-10_790	descending eight thousand four hundred meters expedite air juneyao one zero niner niner 
+ZUUU02_2020-07-23_15-01-39_250	air juneyao one zero niner niner contact kunming one two four decimal fife fife good day 
+ZUUU02_2020-07-23_15-01-45_750	kunming one two four decimal fife fife air juneyao one zero niner niner good day 
+ZUUU02_2020-07-23_15-12-48_740	control good evening sichuan eight seven one fife maintain eight thousand niner hundred meters squawk one five four zero 
+ZUUU02_2020-07-23_15-12-56_790	uh sichuan eight seven one fife chengdu control radar contact maintain level 
+ZUUU02_2020-07-23_15-13-01_470	clear to land sichuan eight seven fife fife 
+ZUUU02_2020-07-23_15-18-53_090	sichuan eight seven one five climb to and maintain niner thousand five hundred meters 
+ZUUU02_2020-07-23_15-18-58_370	climb maintain niner thousand five hundred meters sichuan eight seven one fife 
+ZUUU02_2020-07-23_15-21-46_170	sichuan eight seven one fife contact nanning one three three decimal one good day 
+ZUUU02_2020-07-23_15-21-51_570	one three three decimal one sichuan eight seven one fife thank you bye bye 
+ZUUU02_2020-07-23_15-24-32_300	nihao radar orcraft uh monindan th frequency 
+ZUUU02_2020-07-23_23-54-57_970	control fedex five two one seven level eight thousand four hundred meters by request nine thousand two hundred meters 
+ZUUU02_2020-07-23_23-55-03_650	fedex five two one seven chengdu confirm squawk 
+ZUUU02_2020-07-23_23-55-07_680	confirm squawk is five one six one fedex five two one seven 
+ZUUU02_2020-07-23_23-55-12_930	fedex five two one seven chengdu control radar contact cancel offset direct to masro 
+ZUUU02_2020-07-23_23-55-18_530	cancel offset direct masro uh mike uh uh alpha sierra romeo oscar fedex five two one seven 
+ZUUU02_2020-07-23_23-55-26_710	fedex five two one seven affirm and maintain present level higher level not available due converging traffic 
+ZUUU02_2020-07-23_23-55-33_260	roger that maintain present level for traffic fedex five two one seven direct to masro cancel offset 
+ZUUU02_2020-07-23_23-57-21_640	uh chengdu control good morning sichuan eight seven tree one maintain one zero thousand one hundred meters squawk two one five zero 
+ZUUU02_2020-07-23_23-57-29_220	sichuan eight seven three one chengdu control radar contact 
+ZUUU02_2020-07-24_00-01-46_770	chengdu control good morning air juneyao one one zero zero maintain nine thousand fife hundred meters fife miles right of track squawk six four two seven 
+ZUUU02_2020-07-24_00-01-57_310	air juneyao one one zero zero chengdu control radar contact 
+ZUUU02_2020-07-24_00-07-45_450	fedex five two one seven contact chengdu control one three three decimal six five good day 
+ZUUU02_2020-07-24_00-07-50_920	one tree tree decimal six fife fedex five two one seven bye bye 
+ZUUU02_2020-07-24_00-08-13_370	sichuan eight seven three one contact nanning control one three three decimal one good day 
+ZUUU02_2020-07-24_00-08-18_470	one tree tree decimal one sichuan eight seven tree one bye bye 
+ZUUU02_2020-07-24_00-18-24_140	chengdu good morning united eagle two two three five eight thousand niner hundred meters 
+ZUUU02_2020-07-24_00-18-31_700	united eagle two two tree fife chengdu radar contact 
+ZUUU02_2020-07-24_00-18-35_100	radar contact united eagle two two tree fife 
+ZUUU02_2020-07-24_00-21-04_080	say again air juneyao one one zero zero 
+ZUUU02_2020-07-24_00-21-10_340	say again frequency air juneyao one one zero zero 
+ZUUU02_2020-07-24_00-21-13_760	air juneyao one one zero zero contact chengdu one tree two decimal two fife good day 
+ZUUU02_2020-07-24_00-21-19_100	one tree two two fife air juneyao one one zero zero bye 
+ZUUU02_2020-07-24_00-28-49_370	united eagle two two tree fife contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-24_00-28-56_250	confirm one three three decimal one united eagle two two tree fife 
+ZUUU02_2020-07-24_00-28-59_490	united eagle two two three fife affirm 
+ZUUU02_2020-07-24_00-29-02_510	one three three decimal one good day united eagle two two tree fife 
+ZUUU02_2020-07-24_00-30-53_800	chengdu bohao fife flight one thousand seven hundred united eagle two two zero 
+ZUUU02_2020-07-24_00-37-39_450	uh chengdu control good morning united eagle two two one seven maintain one zero tousand one hundred meters uh squawk one five one six offset tree miles right side 
+ZUUU02_2020-07-24_00-37-48_910	united eagle two two one seven chengdu radar contact 
+ZUUU02_2020-07-24_00-47-28_840	united eagle two two one seven contact kunming correction contact nanning control one three three decimal one good day 
+ZUUU02_2020-07-24_00-47-38_610	one tree tree decimal one united eagle two two one seven have a good day 
+ZUUU02_2020-07-24_01-29-44_070	uh chengdu control good morning airbridge cargo four five zero heavy uh maintaining eight thousand four hundred meters fife miles right of track squawk five one tree six 
+ZUUU02_2020-07-24_01-29-54_150	airbridge cargo four four five zero chengdu radar contact cancel offset direct to masro 
+ZUUU02_2020-07-24_01-30-02_770	cancel offset direct to masro airbridge cargo four five zero 
+ZUUU02_2020-07-24_01-30-15_760	airbridge cargo uh fife four zero if possible request flight level nine thousand two hundred meters 
+ZUUU02_2020-07-24_01-30-23_850	airbridge cargo four five zero uh niner tousand two hundred meters is not available can you accept niner thousand eight hundred meters 
+ZUUU02_2020-07-24_01-30-33_120	uh negative airbridge cargo four seven zero we are to heavy thank you 
+ZUUU02_2020-07-24_01-30-37_160	uh airbridge cargo four five eight uh roger maintain eight thousand airbridge cargo four five zero maintain eight thousand four hundred meters 
+ZUUU02_2020-07-24_01-30-47_870	uh maintaining present level eight thousand four hundred meters airbridge cargo four five zero 
+ZUUU02_2020-07-24_01-40-08_490	airbridge cargo four five zero contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-24_01-40-15_020	uh one three three decimal six fife airbridge cargo four five zero thank you good day 
+ZUUU02_2020-07-24_01-57-51_790	uh turkish six four eight eight good day one one thousand three hundred meters squawk two zero seven zero 
+ZUUU02_2020-07-24_01-57-58_210	turkish six four eight eight chengdu radar contact maintain level 
+ZUUU02_2020-07-24_01-58-02_810	maintain level turkish six four eight eight 
+ZUUU02_2020-07-24_02-08-30_630	turkish six four eight eight contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-24_02-08-35_420	one three three decimal one turkish six four eight eight bye bye 
+ZUUU02_2020-07-24_02-12-54_830	chengdu control good morning china eastern fife four five six maintain niner tousand five hundred meters squawk six four one five five miles right of track 
+ZUUU02_2020-07-24_02-13-08_800	uh china eastern fife four five six good morning chengdu radar contact 
+ZUUU02_2020-07-24_02-13-13_850	china eastern fife four five six 
+ZUUU02_2020-07-24_02-15-12_150	china eastern fife four five six request climb to and maintain one zero tousand seven hundred meters 
+ZUUU02_2020-07-24_02-15-21_070	china eastern fife four five six climb maintain one zero thousand seven hundred meters and expedite climb due traffic 
+ZUUU02_2020-07-24_02-15-38_600	china eastern fife four five six climb maintain one zero tousand seven hundred meters uh rate of climb more than one thousand niner five hundred feet per minute 
+ZUUU02_2020-07-24_02-15-49_530	climb and maintain one zero tousand seven hundred meters one tousand five hundred meters per minutes 
+ZUUU02_2020-07-24_02-15-58_710	china eastern five four six five six 
+ZUUU02_2020-07-24_02-29-34_550	china eastern fife four five six contact chengdu control one three two decimal two fife good day 
+ZUUU02_2020-07-24_02-29-43_200	contact chengdu control one tree two decimal two five china eastern fife four five six 
+ZUUU02_2020-07-24_02-54-43_160	uh chengdu control good afternoon vietjet five two zero three niner thousand two hundred meters squawking three three zero one 
+ZUUU02_2020-07-24_02-54-49_980	capital jet five two zero three chengdu radar contact 
+ZUUU02_2020-07-24_02-55-45_030	chengdu good day dragon eight eight six one zero thousand four hundred meters 
+ZUUU02_2020-07-24_02-55-50_120	dragon eight eight six confirm your squawk 
+ZUUU02_2020-07-24_02-55-53_680	five seven six one dragon eight eight six 
+ZUUU02_2020-07-24_02-55-55_460	dragon eight eight six chengdu radar contact maintain level 
+ZUUU02_2020-07-24_03-00-54_170	dragon eight eight six cancel offset direct to masro 
+ZUUU02_2020-07-24_03-00-58_680	direct masro dragon eight eight six 
+ZUUU02_2020-07-24_03-01-17_450	capital jet five two zero three descend maintain eight tousand four hundred meters 
+ZUUU02_2020-07-24_03-01-22_740	descend to eight thousand four hundred meters siberian five two zero tree 
+ZUUU02_2020-07-24_03-07-44_070	uh control good morning airbridge cargo four zero heavy maintaining flight level nine thousand three hundred meters 
+ZUUU02_2020-07-24_03-07-50_730	airbridge cargo four four zero confirm your squawk 
+ZUUU02_2020-07-24_03-07-53_570	squawk five one seven four 
+ZUUU02_2020-07-24_03-07-56_040	uh airbridge cargo four four zero chengdu radar contact maintain level 
+ZUUU02_2020-07-24_03-08-03_180	capital jet five two zero tree contact kunming control one two four decimal fife fife good day 
+ZUUU02_2020-07-24_03-08-08_190	one two four fife fife good day capital jet five two zero three 
+ZUUU02_2020-07-24_03-08-36_500	dragon eight eight six contact chengdu control one three three decimal six five good day 
+ZUUU02_2020-07-24_03-08-41_600	one tree tree six fife dragon eight eight six good day 
+ZUUU02_2020-07-24_03-11-39_220	chengdu control good morning bravo eight two zero eight is maintaining uh one one thousand six hundred meters squawk three one three seven three fife miles right 
+ZUUU02_2020-07-24_03-11-48_560	uh bravo eight two zero eight chengdu radar contact maintain level 
+ZUUU02_2020-07-24_03-14-36_000	chengdu control good morning sichuan eight seven tree seven maintain eleven tousand three hundred meters squawk one fife two one 
+ZUUU02_2020-07-24_03-14-43_000	uh sichuan eight seven tree seven chengdu radar contact 
+ZUUU02_2020-07-24_03-18-17_390	airbridge cargo four four zero contact chengdu control one three three decimal six five good day 
+ZUUU02_2020-07-24_03-18-24_880	one tree tree decimal six fife airbridge cargo four four zero goodbye 
+ZUUU02_2020-07-24_03-21-13_200	sichuan eight seven tree seven descend maintain one zero thousand one hundred meters 
+ZUUU02_2020-07-24_03-21-18_480	descend one zero tousand one hundred meters sichuan eight seven three seven 
+ZUUU02_2020-07-24_03-23-04_440	sichuan eight seven three seven rate of descent more than two thousand feet per minute 
+ZUUU02_2020-07-24_03-23-08_640	descend two thousand feet hundred feet minute sichuan eight seven tree seven 
+ZUUU02_2020-07-24_03-25-37_300	uh sichuan eight seven tree seven contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-24_03-25-43_160	one tree tree decimal one good day sichuan eight seven three seven 
+ZUUU02_2020-07-24_03-49-16_340	chengdu control united eagle two two three six maintain niner tousand eight hundred meters offset three miles right of track squawk three one one seven 
+ZUUU02_2020-07-24_03-49-25_800	uh united eagle two two tree six chengdu radar contact maintain level 
+ZUUU02_2020-07-24_03-49-29_460	maintain level united eagle two two three six 
+ZUUU02_2020-07-24_03-53-08_220	control uh good morning sichuan eight seven tree two is with you level at niner thousand eight hundred meters squawking three one two zero approaching uh loca 
+ZUUU02_2020-07-24_03-53-20_060	uh sichuan eight seven tree two chengdu radar contact maintain level 
+ZUUU02_2020-07-24_03-57-00_640	chengdu control good morning alpha bravo bravo six three zero two flight level eleven thousand uh meters three miles right of track 
+ZUUU02_2020-07-24_03-57-10_320	uh uh alpha bravo bravo six three zero two confirm squawk 
+ZUUU02_2020-07-24_03-57-16_330	squawk six five three zero 
+ZUUU02_2020-07-24_03-57-18_310	alpha bravo bravo eight uh correction alpha bravo bravo six three zero two chengdu radar contact maintain level 
+ZUUU02_2020-07-24_03-57-26_840	maintaining level thank you alpha ra bravo six three zero two 
+ZUUU02_2020-07-24_03-59-08_430	united eagle two two three six contact chengdu control one tree tree decimal six five good day 
+ZUUU02_2020-07-24_03-59-13_020	one tree tree six fife good day united eagle two two three six 
+ZUUU02_2020-07-24_03-59-19_880	alpha bravo bravo six three zero two descend maintain one zero thousand four hundred meters 
+ZUUU02_2020-07-24_03-59-25_700	descending one zero thousand four hundred meters alpha bravo bravo six three zero two 
+ZUUU02_2020-07-24_04-02-35_630	uh control sichuan eight seven three two radio check 
+ZUUU02_2020-07-24_04-02-40_610	sichuan eight seven three two read you five 
+ZUUU02_2020-07-24_04-04-52_770	control good morning moscow niner four niner zero maintaining one two thousand five hundred meters approaching kilo whiskey echo 
+ZUUU02_2020-07-24_04-04-58_590	moscow niner four niner zero chengdu control radar contact 
+ZUUU02_2020-07-24_04-05-05_390	sichuan eight seven tree two contact chengdu control one tree tree decimal six fife good day one tree tree six fife sichuan eight seven three two e good day 
+ZUUU02_2020-07-24_04-07-33_870	alpha bravo bravo six three zero two contact chengdu control one tree tree decimal six five good day 
+ZUUU02_2020-07-24_04-07-41_450	one tree tree six fife bye bye air four seven six three zero two crossing alpha bravo bravo six three zero two one three three decimal six five 
+ZUUU02_2020-07-24_04-07-50_400	one tree tree six fife alpha bravo bravo six three zero two 
+ZUUU02_2020-07-24_04-15-03_790	moscow niner four niner zero contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-24_04-15-10_200	nanning control one tree tree one moscow niner four niner zero bye bye thank you 
+ZUUU02_2020-07-24_04-29-17_700	chengdu control good afternoon united eagle two two one eight maintain niner tousand eight hundred meters squawk tree one four one uh direct to elkal offset five miles right side 
+ZUUU02_2020-07-24_04-39-08_460	him boli weather united eagle two two one eight contact chengdu one three three decimal six two fife good day 
+ZUUU02_2020-07-24_04-39-15_120	one tree tree decimal six fife united eagle two two one eight have a good day 
+ZUUU02_2020-07-24_04-56-30_720	chengdu good afternoon german cargo five niner one maintaining eight thousand four hundred meters 
+ZUUU02_2020-07-24_04-56-37_230	german cargo five niner one uh squawking five three two zero 
+ZUUU02_2020-07-24_04-56-41_420	german cargo five niner one chengdu radar contact cancel offset direct to masro join route 
+ZUUU02_2020-07-24_04-56-46_550	german cargo five niner one direct to masro and cancel offset 
+ZUUU02_2020-07-24_05-06-50_880	german cargo five niner one contact chengdu control one three three decimal one uh correction one three three decimal six fife good day 
+ZUUU02_2020-07-24_05-06-58_980	german cargo five niner one one tree tree six fife good day 
+ZUUU02_2020-07-24_05-20-10_230	chengdu ups two level one one thousand three hundred meters 
+ZUUU02_2020-07-24_05-20-15_920	speed two chengdu radar contact standby for higher call you back 
+ZUUU02_2020-07-24_05-25-15_780	ups two now climb and maintain one one thousand niner hundred meters 
+ZUUU02_2020-07-24_05-25-19_840	one one thousand niner hundred meters ups two 
+ZUUU02_2020-07-24_05-27-55_350	ups two confirm you are maintaining one one thousand niner hundred meters ups two confirm 
+ZUUU02_2020-07-24_05-28-01_270	ups two uh confirm emirates three niner one 
+ZUUU02_2020-07-24_05-28-05_650	ups two we are nofirma 
+ZUUU02_2020-07-24_05-28-07_650	niner eight six two maintain level 
+ZUUU02_2020-07-24_05-28-26_160	tree one two descend to is e nation onal 
+ZUUU02_2020-07-24_05-30-33_130	ups two contact nanning control one three three decimal one good day 
+ZUUU02_2020-07-24_05-30-38_960	one tree tree decimal one ups two good day 
+ZUUU02_2020-07-24_05-31-43_040	one zero two one have a nine eight one six 
+ZUUU02_2020-07-24_05-33-58_440	control good day moonflower niner one four nine thousand eight hundred meters 
+ZUUU02_2020-07-24_05-34-05_660	moonflower niner one four chengdu confirm squawk 
+ZUUU02_2020-07-24_05-34-08_350	squawking three one zero five 
+ZUUU02_2020-07-24_05-34-12_400	moonflower niner one four chengdu radar contact uh descent rate are you able one zero tousand four hundred meters 
+ZUUU02_2020-07-24_05-34-22_460	moonflower niner niner four now climb and maintain one zero thousand four hundred meters uh radar contact 
+ZUUU02_2020-07-24_05-34-27_690	climb one zero thousand four hundred meters radar contact moonflower niner one four 
+ZUUU02_2020-07-24_05-43-59_910	moonflower niner one four contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-24_05-44-04_560	one three three six fife moonflower niner one four good day 
+ZUUU02_2020-07-24_05-50-19_400	chengdu moonflower niner five zero maintaining nine thousand eight hundred meters 
+ZUUU02_2020-07-24_05-50-28_910	uh squawk is three one two zero 
+ZUUU02_2020-07-24_05-50-31_700	moonflower niner five eight chengdu radar contact are you able one zero tousand four hundred meters affirm 
+ZUUU02_2020-07-24_05-50-38_500	moonflower niner five eight roger standby 
+ZUUU02_2020-07-24_05-51-46_720	e tree one nine five zero 
+ZUUU02_2020-07-24_05-51-49_690	uh we are for able one one thousand meters 
+ZUUU02_2020-07-24_05-51-53_030	uh moonflower niner five zero due converge traffic expect one zero thousand four hundred meters and will call you back 
+ZUUU02_2020-07-24_05-52-33_470	moonflower niner five zero climb and maintain one zero thousand four hundred meters 
+ZUUU02_2020-07-24_05-52-37_950	climb maintain one zero thousand four hundred meters mandarin niner five zero 
+ZUUU02_2020-07-24_05-57-18_670	uh chengdu conto akeo subul zero nine zero sierra uniform mike uniform november 
+ZUUU02_2020-07-24_05-57-26_190	uh tracking two tree eight stand one use squa 
+ZUUU02_2020-07-24_05-57-41_780	chengdu tower one two seven golf fife tree zero and request zero tree tre 
+ZUUU02_2020-07-24_06-00-40_450	moonflower niner five zero contact chengdu control one three three decimal six fife good day 
+ZUUU02_2020-07-24_06-00-46_960	tree six fife moonflower nine fife zero bye bye 
+ZUUU02_2020-07-24_08-20-24_820	chengdu control good afternoon uh niner six zero one flight level eleven thousand three hundred meters 
+ZUUU02_2020-07-24_08-20-33_520	uh sierra mike foxtrot six two uh six zero one chengdu radar contact maintain level 
+ZUUU02_2020-07-24_08-20-39_470	maintaining level uh united eagle six two zero one 
+ZUUU02_2020-07-24_08-31-27_840	thai asia mike foxtrot six zero one contact nanning one tree tree decimal one good day 
+ZUUU02_2020-07-24_08-31-39_540	sierra mike foxtrot six zero one contact nanning one three three decimal one 
+ZUUU02_2020-07-24_08-31-46_470	one tree tree decimal one uh than nine zero one one eight 
+ZUUU02_2020-07-24_08-32-52_580	chengdu control good afternoon eva seven six fife maintaining nine thousand eight hundred meters offset miles mike uh fife miles right of track 
+ZUUU02_2020-07-24_08-33-00_290	eva seven six fife confirm squawk 
+ZUUU02_2020-07-24_08-33-04_320	uh squawk two six six zero eva seven two fife 
+ZUUU02_2020-07-24_08-33-07_600	eva seven six fife chengdu radar contact uh climb maintain one zero thousand four hundred meters 
+ZUUU02_2020-07-24_08-33-13_440	climb maintain one zero thousand four hundred meters eva seven six fife thank you 
+ZUUU02_2020-07-24_09-57-58_520	chengdu control good afternoon yangzi river seven fife tree tree maintain ten thousand four hundred meters squawk four two two four 
+ZUUU02_2020-07-24_09-58-10_520	yangzi river seven fife tree tree 
+ZUUU02_2020-07-24_10-00-22_940	alpha two three one tree can you laste gation hotel join gold rove weata foxtrot bravo 
+ZUUU02_2020-07-24_10-09-37_620	yangzi river seven five tree tree contact chengdu control on one three three decimal six fife good day 
+ZUUU02_2020-07-24_10-09-43_670	one tree tree decimal six fife good day yangzi river seven fife tree tree 
+ZUUU02_2020-07-24_10-12-27_810	chengdu control air spring six four six one climb and maintain niner tousand eight hundred meters offset one 
+ZUUU02_2020-07-24_10-12-36_560	air spring eight seven six four tree one 
+ZUUU02_2020-07-24_10-12-38_240	air spring six four six one chengdu control squawk ident 
+ZUUU02_2020-07-24_10-12-42_240	uh squawk tree one two tree air spring six four six one 
+ZUUU02_2020-07-24_10-12-47_500	air spring six four six one chengdu control radar contact 
+ZUUU02_2020-07-24_10-18-35_570	one nine one at nine two six six two 
+ZUUU02_2020-07-24_10-18-38_320	air spring six four six one cancel offset direct to sumun 
+ZUUU02_2020-07-24_10-18-45_970	uh direct to sumun air spring six four six one 
+ZUUU02_2020-07-24_10-24-19_680	air spring six four six one contact chengdu control on one three three decimal six fife good day 
+ZUUU02_2020-07-24_10-24-27_660	confirm preping six four six one contact one tree two six fife 
+ZUUU02_2020-07-24_10-24-32_540	negative air spring six four six one one double three decimal six fife good day 
+ZUUU02_2020-07-24_10-24-39_060	one tree tree six fife 
+ZUUU02_2020-07-24_10-24-42_890	confirm air spring six four six one meter can 
+ZUUU02_2020-07-24_10-24-46_670	one tree tree point six fife air spring six four six one 
+ZUUU02_2020-07-24_10-42-52_330	capital jet five one seven seven chengdu control radar contact 
+ZUUU02_2020-07-24_10-42-56_980	capital jet five one seven seven 
+ZUUU02_2020-07-24_10-48-11_560	capital jet five one seven seven contact chengdu control on one three three decimal six fife good day 
+ZUUU02_2020-07-24_10-48-17_150	one tree tree decimal six fife good day capital jet fife one seven seven 
+ZUUU02_2020-07-24_10-48-36_860	position confirm i sia eight eight correct monitor and frequency one two four decimal niner five 
+ZUUU02_2020-07-24_12-30-28_980	uh chengdu control strait air six five zero niner uh eight thousand two hundred meters 
+ZUUU02_2020-07-24_12-30-34_730	siberian six five zero niner chengdu control radar contact 
+ZUUU02_2020-07-24_12-30-38_180	strait air six five zero niner 
+ZUUU02_2020-07-24_12-31-07_470	hainan seven one niner please sect sierra uniform mike uniform november 
+ZUUU02_2020-07-24_12-32-47_000	strait air six five zero niner descend maintain eight thousand four hundred meters descend and maintain eight thousand four hundred meters strait air six five zero niner 
+ZUUU02_2020-07-24_12-41-11_340	one tree four decimal tree five strait air six five zero niner 
+ZUUU02_2020-07-24_12-41-19_590	strait air six fife zero niner contact kunming one tree four decimal three five good day 
+ZUUU02_2020-07-24_12-43-02_290	uh chengdu control united eagle two two zero seven maintain one zero thousand one hundred meters squawk one five three two 
+ZUUU02_2020-07-24_12-43-09_700	united eagle two two zero seven chengdu control radar contact 
+ZUUU02_2020-07-24_12-43-13_450	united eagle two two zero seven 
+ZUUU02_2020-07-24_12-50-11_830	uh chengdu fedex five three four two uh one zero thousand seven hundred meters three miles romeo side of track 
+ZUUU02_2020-07-24_12-50-20_870	fedex fife tree four two chengdu radar contact maintain level 
+ZUUU02_2020-07-24_12-50-24_380	maintain level fedex fife tree four two 
+ZUUU02_2020-07-24_12-53-48_950	united eagle two two zero seven contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-24_12-53-55_000	one tree tree decimal one good day united eagle two two zero seven 
+ZUUU02_2020-07-24_13-00-17_860	fedex five tree four two contact nanning control one tree tree decimal one good day 
+ZUUU02_2020-07-24_13-00-24_230	one two three decimal one 
+ZUUU02_2020-07-24_13-00-26_270	fedex five tree four two contact contact nanning control one three three decimal one good day 
+ZUUU02_2020-07-24_13-00-32_180	one three three decimal one fedex fife tree four two 
+ZUUU02_2020-07-24_13-06-20_300	sequence one eight one romeo nihao chengdu radar high speed restriction alpha tango 
+ZUUU02_2020-07-24_13-13-53_720	etine air correction ponitor on one two four decimal niner five 
+ZUUU02_2020-07-24_23-52-48_420	chengdu control good morning air juneyao one one zero zero niner thousand five hundred meters squawk six four tree two 
+ZUUU02_2020-07-24_23-52-56_400	air juneyao one one zero zero chengdu radar contact direct to lot one zero thousand seven hundred meters 
+ZUUU02_2020-07-24_23-53-05_880	all zulu zulu zulu 
+ZUUU02_2020-07-24_23-53-18_390	air juneyao one one zero one zero uh please say again 
+ZUUU02_2020-07-24_23-53-21_690	affirm uh we are able one zero thousand seven hundred meters wi 
+ZUUU02_2020-07-24_23-54-53_130	air juneyao one one zero zero climb maintain one zero thousand seven hundred meters 
+ZUUU02_2020-07-24_23-54-58_370	climb one zero thousand seven hundred meters air juneyao one one zero zero thank you 
+ZUUU02_2020-07-25_00-10-33_740	air juneyao one one zero zero contact chengdu one three two decimal two fife good day 
+ZUUU02_2020-07-25_00-10-38_150	one tree two two fife air juneyao one one zero zero good day 
+ZUUU02_2020-07-25_00-21-16_590	control fedex two one level eight thousand four hundred meters offset fife miles right of track 
+ZUUU02_2020-07-25_00-21-22_010	uh fedex two one confirm squawk 
+ZUUU02_2020-07-25_00-21-25_830	squawk five one fife four fedex two one 
+ZUUU02_2020-07-25_00-21-28_590	fedex two one chengdu radar contact maintain level 
+ZUUU02_2020-07-25_00-21-32_410	maintain level and request higher when able fedex two one 
+ZUUU02_2020-07-25_00-21-35_280	confirm whiskey one able niner thousand eight hundred meters 
+ZUUU02_2020-07-25_00-21-43_240	uh we are now able nine thousand eight hundred meters fedex two one 
+ZUUU02_2020-07-25_00-21-48_410	canaday eight two niner roger standby 
+ZUUU02_2020-07-25_00-22-31_860	uh speedbird two one climb maintain niner thousand eight hundred meters 
+ZUUU02_2020-07-25_00-22-35_880	two six confirm we are not able nine thousand eight hundred meters direct to one unable 
+ZUUU02_2020-07-25_00-22-41_080	fedex two one roger maintain present level request higher after passing irved 
+ZUUU02_2020-07-25_00-22-48_770	maintain higher level and request higher after irved sichuan five two one 
+ZUUU02_2020-07-25_00-22-53_710	uh fedex two one affirm maintain present level request higher after passing irved 
+ZUUU02_2020-07-25_00-22-59_390	maintain present level fly fly direct to passing november seven two one 
+ZUUU02_2020-07-25_00-32-11_770	fen eight two one contact chengdu one tree tree decimal six fife good day 
+ZUUU02_2020-07-25_00-32-19_640	confirm one tree tree decimal six fife fedex two one 
+ZUUU02_2020-07-25_00-32-22_710	uh fedex two one contact chengdu one tree tree decimal six fife 
+ZUUU02_2020-07-25_00-36-06_210	twenty sir hao chengdu radar i 
+ZUUU02_2020-07-25_01-04-51_670	chengdu shanghao one seven eight seven call you ear romeo eight nine request zulu one 
+ZUUU02_2020-07-25_01-08-10_340	five eight eight to ten nihar idse 
+ZUUU02_2020-07-25_01-16-05_330	hainan four one eight sierra chengdu radar dis 
+ZUUU02_2020-07-25_01-39-58_420	chengdu control morning air spring eight nine fife tree maintaining nine thousand two hundred meters 
+ZUUU02_2020-07-25_01-40-03_550	air spring eight niner five tree chengdu radar contact maintain level 
+ZUUU02_2020-07-25_01-46-27_870	finnair niner one go 
+ZUUU02_2020-07-25_01-47-12_810	air spring eight niner five three descend maintain eight thousand four hundred meters 
+ZUUU02_2020-07-25_01-47-18_180	descend maintain eight thousand four hundred meters air spring eight niner fife tree 
+ZUUU02_2020-07-25_01-54-52_790	air spring eight niner five tree contact kunming one two four decimal fife fife bye bye 
+ZUUU02_2020-07-25_01-54-59_780	one two four fife fife air spring eight nine fife tree good day 
+ZUUU02_2020-07-25_02-04-45_390	uh good day nine foxtrot alpha one two niner four flight level one zero thousand one hundred meters inbound kilo whiskey echo 
+ZUUU02_2020-07-25_02-04-54_850	india foxtrot alpha one two niner four chengdu control radar contact maintain level 
+ZUUU02_2020-07-25_02-05-00_690	maintaining level for brata one two niner four 
+ZUUU02_2020-07-25_02-08-12_380	control fedex five niner two five is with you eight thousand four hundred meters uh offset fife miles to the right 
+ZUUU02_2020-07-25_02-08-21_460	fedex five niner two five confirm uh confirm squawk uh correction 
+ZUUU02_2020-07-25_02-08-26_190	squawk five one six three 
+ZUUU02_2020-07-25_02-08-31_230	fedex five niner two five squawk ident 
+ZUUU02_2020-07-25_02-08-41_420	fedex five niner two five chengdu control radar contact maintain level 
+ZUUU02_2020-07-25_02-08-45_850	fedex five nine two five copy fedex five niner uh two five request flight level eight thousand niner hundred meters unable 
+ZUUU02_2020-07-25_02-08-54_690	fedex fife niner two fife maintain present level you can request higher after xray yankee oscar 
+ZUUU02_2020-07-25_02-09-01_710	copy uh maintaining eight thousand four hundred meters uh after xray yankee foxtrot 
+ZUUU02_2020-07-25_02-09-58_470	chengdu control good morning sichuan eight eight six niner position kilo whiskey echo maintain flight level eight thousand niner hundred meters 
+ZUUU02_2020-07-25_02-10-06_750	sichuan eight eight six niner chengdu control radar contact offset fife miles right of track offset five miles right of track and report main higher level sichuan eight eight six niner 
+ZUUU02_2020-07-25_02-10-16_270	sichuan eight eight six niner standby 
+ZUUU02_2020-07-25_02-15-47_180	india foxtrot alpha one two niner four contact nanning one three three decimal one good day 
+ZUUU02_2020-07-25_02-15-55_370	one tree tree decimal one hainan zero one two niner four goodbye 
+ZUUU02_2020-07-25_02-16-53_130	sichuan eight eight six niner climb and maintain niner tousand two hundred meters 
+ZUUU02_2020-07-25_02-16-58_520	climbing niner thousand two hundred meters sichuan eight eight six niner 
+ZUUU02_2020-07-25_02-17-26_890	sichuan eight eight six niner climb and maintain one zero tousand one hundred meters 
+ZUUU02_2020-07-25_02-17-31_470	climbing to one zero thousand one hundred meters sichuan eight eight six niner xiexie 
+ZUUU02_2020-07-25_02-18-20_390	fedex five niner two five contact chengdu one tree tree decimal six fife good day 
+ZUUU02_2020-07-25_02-18-29_330	fedex five niner two five contact chengdu one tree tree decimal six fife good day one tree tree decimal six fife fedex five niner two five 
+ZUUU02_2020-07-25_02-19-21_210	sichuan eight eight six niner climb and maintain one zero thousand seven hundred meters expedite climb 
+ZUUU02_2020-07-25_02-19-27_800	climbing one zero thousand four hundred meters expedite sichuan eight eight six niner e 
+ZUUU02_2020-07-25_02-22-57_750	sichuan eight eight six niner contact guangzhou one three two decimal seven five good day 
+ZUUU02_2020-07-25_02-23-04_310	one tree two seven fife sichuan eight eight six niner good day 
+ZUUU02_2020-07-25_02-34-38_420	kunming fedex nine zero eight one 
+ZUUU02_2020-07-25_02-34-44_160	fedex niner zero eight one west tracking one one thousand three hundred meters five request one one thousand niner hundred meters if available 
+ZUUU02_2020-07-25_02-34-55_470	fedex niner zero eight one chengdu control radar contact standby for higher 
+ZUUU02_2020-07-25_02-39-21_280	fedex niner zero eight one climb and maintain one one tousand niner hundred meters and cancel offset direct to idepo 
+ZUUU02_2020-07-25_02-39-30_130	copy climb maintain one one thousand niner hundred meters and nine kilo one possro sieex nine zero eight one 
+ZUUU02_2020-07-25_02-39-46_370	uh kunming we are reaching one one thousand niner hundred meters by depo 
+ZUUU02_2020-07-25_02-39-59_010	uh yes one fedex nine zero eight on we kas we climbing uh one one thousand niner hundred meters victor continue we descend 
+ZUUU02_2020-07-25_02-40-09_280	hainan seven seven zero uh and one one tower mike uh niner zero eight one climb maintain one one thousand niner hundred meters and cancel offset direct to idepo 
+ZUUU02_2020-07-25_02-40-21_580	copy cancel offset direct to idepo fedex uh nine two eight one we are folling uh romeo charlie one one thousand niner hundred meters 
+ZUUU02_2020-07-25_02-44-32_300	fedex niner zero eight one contact nanning one tree tree decimal one good day 
+ZUUU02_2020-07-25_02-44-40_690	copy one two three decimal one fedex nine zero eight one 
+ZUUU02_2020-07-25_02-44-44_560	fedex niner zero eight one one three three decimal one good day copy one three three decimal one direct to ansar 
+ZUUU02_2020-07-25_03-02-42_540	radar nihao dragon eight eight six maintaining one zero thousand four hundred meters squawk tree tree four seven 
+ZUUU02_2020-07-25_03-02-49_150	dragon eight eight six chengdu control radar contact maintain level 
+ZUUU02_2020-07-25_03-04-09_830	
+ZUUU02_2020-07-25_03-05-55_690	dragon eight eight six direct to irved join flight plan route 
+ZUUU02_2020-07-25_03-05-59_610	direct to irved follow papa roger dragon eight eight six 
+ZUUU02_2020-07-25_03-06-05_070	dragon air eight eight six direct to irved join flight plan route 
+ZUUU02_2020-07-25_03-06-09_710	direct to ils uh fly plan route dragon eight eight six india romeo victor echo delta 
+ZUUU02_2020-07-25_03-06-33_150	uh sichuan eight seven five niner good morning climb nine eight thousand four hundred meters squawk four two six zero 
+ZUUU02_2020-07-25_03-06-48_520	control one three two eight fife 
+ZUUU02_2020-07-25_03-06-56_640	one three two eight fife sichuan eight seven five niner good day 
+ZUUU02_2020-07-25_03-11-38_870	control nihao moscow niner four eight fife maintaining one zero thousand four hundred meters squawk five one five one uh we are pepition elkal and fife miles right of track when able request climb one one thousand meters 
+ZUUU02_2020-07-25_03-11-56_610	moscow niner four eight five chengdu control radar contact you can rate higher after passing xray yankee oscar 
+ZUUU02_2020-07-25_03-12-05_220	uh passing xray yankee oscar whiskey request higher moscow niner four eight fife thank you sir 
+ZUUU02_2020-07-25_03-12-54_510	dragon eight eight six contact chengdu one tree tree decimal six fife good day 
+ZUUU02_2020-07-25_03-12-59_260	one tree tree decimal six fife dragon eight eight six bye bye 
+ZUUU02_2020-07-25_03-20-18_060	chengdu control sichuan eight seven tree seven uh maintain one one thousand tree hundred meters squawk two one five two 
+ZUUU02_2020-07-25_03-20-24_490	sichuan eight seven tree seven chengdu control radar contact maintain level 
+ZUUU02_2020-07-25_03-21-41_760	moscow niner four eight five contact chengdu one tree tree decimal six fife good day 
+ZUUU02_2020-07-25_03-21-47_050	chengdu one three three six fife moscow niner four eight fife good day 
+ZUUU02_2020-07-25_03-26-44_390	sichuan eight seven tree seven descend and maintain one zero thousand one hundred meters 
+ZUUU02_2020-07-25_03-26-49_320	descend one zero thousand one hundred meters sichuan eight seven tree seven 
+ZUUU02_2020-07-25_03-31-48_120	sichuan eight seven tree seven contact nanning one three three decimal one good day 
+ZUUU02_2020-07-25_03-31-53_430	one tree tree one sichuan eight seven tree seven good day 
+ZUUU02_2020-07-25_03-36-54_690	speedbird tree one chengdu control 
+ZUUU02_2020-07-25_03-36-58_740	speedbird tree one confirm altitude and squawk five flight level eleven thousand three hundred meters two zero zero direct solf sierra zero ei 
+ZUUU02_2020-07-25_03-37-10_860	speedbird tree one chengdu control radar contact cancel offset direct to kilo whiskey echo 
+ZUUU02_2020-07-25_03-37-16_360	offset panko kilo whiskey the nine two tree one 
+ZUUU02_2020-07-25_03-47-01_010	speedbird tree one contact contact nanning one tree tree decimal one good day one three three one speedbird tree one good day 
+ZUUU02_2020-07-25_04-50-26_700	chengdu control good afternoon sichuan eight seven tree two maintaining eight tousand four hundred meters squawk four five two two 
+ZUUU02_2020-07-25_04-50-35_740	sichuan eight seven tree two chengdu radar contact 
+ZUUU02_2020-07-25_05-01-33_300	sichuan eight seven tree two contact chengdu one three three decimal six five good day 
+ZUUU02_2020-07-25_05-01-38_540	one tree tree decimal six fife good day sichuan eight seven tree two 
+ZUUU02_2020-07-25_05-31-54_720	control turkish six four eight six heavy maintain one one thousand three hundred meters 
+ZUUU02_2020-07-25_05-32-01_120	turkish six four eight seven chengdu radar contact maintain level 
+ZUUU02_2020-07-25_05-32-05_520	maintain level turkish six four eight six nihao 
+ZUUU02_2020-07-25_05-42-44_270	turkish six four eight six contact xian on one tree tree decimal one good day 
+ZUUU02_2020-07-25_05-42-49_910	one tree tree decimal one bye bye turkish six four eight six heavy 
+ZUUU02_2020-07-25_05-45-35_470	chengdu control good afternoon air spring eight nine fife four maintaining one zero thousand seven hundred meters squawk six four one four 
+ZUUU02_2020-07-25_05-53-58_290	reduce tree echo how fly heading on golf teo uh now 
